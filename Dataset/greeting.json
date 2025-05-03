@@ -1,0 +1,273 @@
+{
+  "greetings": {
+    "hey": {
+      "response": [
+        "Hey there! 👋 Ready to plan your educational journey?",
+        "Hey! Great to see you. What educational questions can I help with today?",
+        "Hey there! Looking for some guidance on your learning path?",
+        "Hey! 📚 Welcome back. How can I assist with your education goals today?"
+      ],
+      "suggestions": [
+        "Suggest a career path",
+        "What course should I take?",
+        "Show me trending degrees"
+      ]
+    },
+    "hi": {
+      "response": [
+        "Hi! I'm your education assistant. How can I guide you today?",
+        "Hi there! 👋 Ready to explore education and career options together?",
+        "Hi! Wonderful to connect with you. What aspect of your education journey can I help with?",
+        "Hi there! 🎓 Looking for courses, career advice, or study tips today?",
+        "Hi! I'm here to make your educational decisions easier. What's on your mind?",
+        "Hi there! Need help navigating the world of learning and professional development?",
+        "Hi! 📝 Tell me what educational goals you're working toward, and I'll help you get there."
+      ],
+      "suggestions": [
+        "I need career advice",
+        "Find top universities",
+        "What should I study?"
+      ]
+    },
+    "hello": {
+      "response": [
+        "Hello! 😊 Let's find the right academic path for you.",
+        "Hello there! Ready to navigate your educational journey together?",
+        "Hello! How can I assist with your learning and career development today?",
+        "Hello! 🧠 Curious about courses, degrees, or professional paths? I'm here to help!"
+      ],
+      "suggestions": [
+        "I want to become a doctor",
+        "Show me job-oriented diplomas",
+        "Which degree pays the most?"
+      ]
+    },
+    "who are you": {
+      "response": [
+        "I'm EduBot, your AI-powered education advisor. Ask me anything about degrees, careers, or skills!",
+        "I'm your personal education assistant, designed to help you navigate academic choices and career planning.",
+        "I'm an AI education guide created to help you find the perfect courses, degrees, and career paths tailored to your interests.",
+        "Think of me as your digital guidance counselor - here to provide information about educational opportunities and career trajectories."
+      ],
+      "suggestions": [
+        "How do I become a software developer?",
+        "Which certificate is best for data analysis?"
+      ]
+    },
+    "what's up": {
+      "response": [
+        "All good here! 👨‍🏫 Ready to help you with your education goals. What are you curious about?",
+        "Just helping students find their path! What educational questions can I answer for you?",
+        "Ready to explore learning opportunities with you! What's on your educational radar today?",
+        "Keeping up with the latest in education and career trends! How can I put that knowledge to work for you?"
+      ],
+      "suggestions": [
+        "Tell me about AI careers",
+        "Help me choose between IT and Business",
+        "Find top-rated online courses"
+      ]
+    },
+    "wassup": {
+      "response": [
+        "Yo! 📘 Just helping people like you plan amazing futures. What can I do for you today?",
+        "Hey! Ready to talk about your educational journey and where you want to go next.",
+        "What's good? Let's explore some learning paths that could take your career to the next level!",
+        "Just hanging out in the digital world, ready to talk education and careers. What's on your mind?"
+      ],
+      "suggestions": [
+        "I'm confused about what to study",
+        "Is a master's degree worth it?",
+        "Find me short-term tech courses"
+      ]
+    },
+    "good morning": {
+      "response": [
+        "Good morning! 🌞 Let's make today the start of a great educational journey.",
+        "Morning! Perfect time to explore your learning options. How can I help today?",
+        "Good morning! Your dedication to education this early is inspiring. What can I help you discover?",
+        "Rise and shine! ☀️ Ready to explore educational opportunities that can brighten your future?"
+      ],
+      "suggestions": [
+        "Show me career trends",
+        "Tell me top-rated colleges",
+        "Suggest certifications"
+      ]
+    },
+    "good afternoon": {
+      "response": [
+        "Good afternoon! Ready to take a step toward your goals?",
+        "Afternoon! Hope your day is going well. What educational topics can I help with?",
+        "Good afternoon! The day is still young - perfect time to work on your educational plans!",
+        "Hi there this afternoon! 🌤️ Looking for some guidance on courses or careers?"
+      ],
+      "suggestions": [
+        "How do I become an engineer?",
+        "What skills should I learn?",
+        "What are future-proof careers?"
+      ]
+    },
+    "good evening": {
+      "response": [
+        "Good evening! 🌙 Need help planning your future before the day ends?",
+        "Evening! A great time to reflect on educational goals. What's on your mind?",
+        "Good evening! Let's make some progress on your career planning tonight.",
+        "Evening there! 🌆 How can I assist with your education or professional development plans?"
+      ],
+      "suggestions": [
+        "Help me pick a university",
+        "I want to change my career path",
+        "Suggest degrees with good scope"
+      ]
+    },
+    "yo": {
+      "response": [
+        "Yo! 👋 I'm here to help you level up your academic and career plans.",
+        "Hey there! Ready to talk about your education goals?",
+        "What's up! Let's explore some learning paths that match your interests.",
+        "Yo! 🚀 Ready when you are to discuss courses, careers, or skills development."
+      ],
+      "suggestions": [
+        "Find short tech courses",
+        "What's trending in the job market?",
+        "Tell me about cyber security jobs"
+      ]
+    },
+    "sup": {
+      "response": [
+        "Sup! 🤖 Need help figuring out your next academic step?",
+        "Hey! Ready to explore some education options together?",
+        "What's good? Let's talk about leveling up your skills or education.",
+        "Sup! Just here helping people navigate their learning journeys. What's on your mind?"
+      ],
+      "suggestions": [
+        "Show top 5 IT careers",
+        "What to study for high-paying jobs?",
+        "Best country to study business"
+      ]
+    },
+    "how are you": {
+      "response": [
+        "I'm doing great, thank you! 😊 How can I help with your education or career today?",
+        "I'm excellent! Even better now that I can help you with your educational questions.",
+        "I'm fantastic, thanks for asking! Ready to help you navigate your learning journey.",
+        "All systems optimal! 💻 Tell me, what education or career questions are on your mind?"
+      ],
+      "suggestions": [
+        "Career roadmap for AI",
+        "Best platforms for online learning",
+        "Degree vs diploma - what's better?"
+      ]
+    },
+    "are you a bot": {
+      "response": [
+        "Yes, I'm EduBot – an AI built to help you make smart choices for your education and career.",
+        "Indeed! I'm an AI education assistant designed to help you navigate learning and career options.",
+        "I am! I'm a specialized AI focused on helping people find their ideal educational and career paths.",
+        "Yes - I'm an AI education advisor programmed with knowledge about courses, careers, and skills development."
+      ],
+      "suggestions": [
+        "How do I become a UX designer?",
+        "Where can I study abroad?",
+        "Suggest trending online degrees"
+      ]
+    },
+    "i need help": {
+      "response": [
+        "Of course! 🎯 I'm here to help. Tell me what you're looking for – a course, a career, or guidance?",
+        "I'm at your service! What kind of educational assistance do you need today?",
+        "Happy to help! What specific area of education or career planning are you struggling with?",
+        "You've come to the right place! 🧭 Let me know what aspect of your educational journey needs direction."
+      ],
+      "suggestions": [
+        "Help me choose a field",
+        "Show me career options",
+        "Tell me top-paying jobs"
+      ]
+    },
+    "help": {
+      "response": [
+        "Sure! I can assist with courses, degrees, career advice, and more. What are you aiming for?",
+        "I'm here to help! Do you need guidance on education options, career paths, or skill development?",
+        "Ready to assist! Tell me what aspect of education or professional development you need help with.",
+        "Let me help you! 🤝 Whether it's finding the right course, degree, or career path, I've got you covered."
+      ],
+      "suggestions": [
+        "How do I study abroad?",
+        "Best career after BSc?",
+        "Top 3 in-demand IT skills"
+      ]
+    },
+    "thank you": {
+      "response": [
+        "You're very welcome! 😊 Feel free to reach out if you have more questions in the future.",
+        "Happy to help! Come back anytime you need educational guidance.",
+        "It's my pleasure! Best of luck with your educational journey.",
+        "Glad I could assist! 🎓 Remember I'm here whenever you need advice on education or careers."
+      ],
+      "suggestions": []
+    },
+    "thanks": {
+      "response": [
+        "No problem at all! 👍 Let me know if there's anything else I can assist you with.",
+        "Anytime! I'm here whenever you need educational guidance.",
+        "You're welcome! Hope the information helps with your decisions.",
+        "Happy to help! 🌟 Feel free to ask more questions about your education journey."
+      ],
+      "suggestions": []
+    },
+    "thank u": {
+      "response": [
+        "You're welcome! 👋 I'm here to help whenever you need it.",
+        "My pleasure! Come back anytime for more education advice.",
+        "Glad I could assist! Best wishes on your learning journey.",
+        "Anytime! 🚀 The door's always open for more questions about courses and careers."
+      ],
+      "suggestions": []
+    },
+    "thanks a lot": {
+      "response": [
+        "My pleasure! 😊 Wishing you all the best in your educational journey!",
+        "You're so welcome! I'm here whenever you need more guidance.",
+        "Happy to be of service! Come back anytime for more education insights.",
+        "The pleasure is mine! 🌈 Best of luck with your learning and career goals!"
+      ],
+      "suggestions": []
+    },
+    "appreciate it": {
+      "response": [
+        "Glad I could help! 👍 Don't hesitate to ask if you have more questions.",
+        "Happy to be of service! Your educational journey matters.",
+        "You're welcome! I'm here whenever you need more guidance.",
+        "Anytime! 🌟 Helping people navigate their education path is what I'm here for."
+      ],
+      "suggestions": []
+    },
+    "great, thank you": {
+      "response": [
+        "Wonderful! 😊 I'm happy I could assist you. Have a great day!",
+        "Excellent! Don't hesitate to return if you need more education advice.",
+        "Great! Wishing you success in your educational pursuits!",
+        "Perfect! 🎯 Always here to help with your learning and career questions."
+      ],
+      "suggestions": []
+    },
+    "perfect, thanks": {
+      "response": [
+        "Excellent! 👍 Feel free to connect again if you need further guidance.",
+        "Perfect indeed! I'm here whenever you need more education insights.",
+        "Great! Wishing you all the best with your learning journey!",
+        "Fantastic! 🚀 Don't hesitate to reach out for more education and career advice."
+      ],
+      "suggestions": []
+    },
+    "got it, thank you": {
+      "response": [
+        "You're welcome! 🚀 Let me know if any other thoughts come up.",
+        "Great! I'm here if you have more questions about your education path.",
+        "Perfect! Come back anytime for more guidance.",
+        "Awesome! 🌟 Wishing you success in your educational endeavors!"
+      ],
+      "suggestions": []
+    }
+  }
+}
