@@ -1,0 +1,1471 @@
+[
+    {
+        "Job": "Software Engineer",
+        "skills": [
+            {"name": "Programming", "keywords": ["programming", "coding", "software development,HTML,CSS,JS,Java,Python,React"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "troubleshooting", "debugging"]},
+            {"name": "Debugging", "keywords": ["debugging", "code debugging", "error fixing"]},
+            {"name": "Algorithm Design", "keywords": ["algorithm design", "data structures", "computational thinking"]},
+            {"name": "Software Testing", "keywords": ["software testing", "qa", "unit testing", "integration testing"]},
+            {"name": "Version Control", "keywords": ["version control", "git", "svn", "mercurial"]},
+            {"name": "Database Management", "keywords": ["database management", "sql", "nosql", "database design"]},
+            {"name": "Software Architecture", "keywords": ["software architecture", "system design", "design patterns"]},
+            {"name": "System Design", "keywords": ["system design", "software architecture", "distributed systems"]},
+            {"name": "Agile Methodologies", "keywords": ["agile", "scrum", "kanban", "agile development"]}
+        ]
+    },
+    {
+        "Job": "Data Scientist",
+        "skills": [
+            {"name": "Statistical Analysis", "keywords": ["statistical analysis", "statistics", "data analysis"]},
+            {"name": "Machine Learning", "keywords": ["machine learning", "ml", "artificial intelligence", "ai"]},
+            {"name": "Data Visualization", "keywords": ["data visualization", "data viz", "visualization"]},
+            {"name": "Python/R", "keywords": ["python", "r", "programming"]},
+            {"name": "Data Mining", "keywords": ["data mining", "data extraction", "pattern recognition"]},
+            {"name": "Data Wrangling", "keywords": ["data wrangling", "data cleaning", "data preprocessing"]},
+            {"name": "Big Data Technologies", "keywords": ["big data", "hadoop", "spark", "data lakes"]},
+            {"name": "Model Evaluation", "keywords": ["model evaluation", "performance metrics", "validation"]},
+            {"name": "Experiment Design", "keywords": ["experiment design", "a/b testing", "hypothesis testing"]},
+            {"name": "Communication", "keywords": ["communication", "presentation", "reporting"]}
+        ]
+    },
+    {
+        "Job": "Registered Nurse",
+        "skills": [
+            {"name": "Patient Care", "keywords": ["patient care", "nursing care", "medical care"]},
+            {"name": "Medical Administration", "keywords": ["medical administration", "medication administration", "iv administration"]},
+            {"name": "Vital Signs Monitoring", "keywords": ["vital signs", "monitoring", "patient assessment"]},
+            {"name": "Emergency Response", "keywords": ["emergency response", "cpr", "first aid", "life support"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "family communication"]},
+            {"name": "Critical Thinking", "keywords": ["critical thinking", "problem solving", "decision making"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "charting", "record keeping"]},
+            {"name": "Infection Control", "keywords": ["infection control", "aseptic technique", "sterilization"]},
+            {"name": "Patient Education", "keywords": ["patient education", "health education", "discharge planning"]},
+            {"name": "Teamwork", "keywords": ["teamwork", "collaboration", "interdisciplinary care"]}
+        ]
+    },
+    {
+        "Job": "Teacher",
+        "skills": [
+            {"name": "Lesson Planning", "keywords": ["lesson planning", "curriculum development", "instructional design"]},
+            {"name": "Classroom Management", "keywords": ["classroom management", "behavior management", "discipline"]},
+            {"name": "Instructional Delivery", "keywords": ["instructional delivery", "teaching methods", "presentation skills"]},
+            {"name": "Assessment", "keywords": ["assessment", "evaluation", "grading"]},
+            {"name": "Communication", "keywords": ["communication", "parent communication", "student communication"]},
+            {"name": "Adaptability", "keywords": ["adaptability", "flexibility", "differentiation"]},
+            {"name": "Subject Matter Expertise", "keywords": ["subject matter expertise", "content knowledge", "pedagogy"]},
+            {"name": "Technology Integration", "keywords": ["technology integration", "educational technology", "e-learning"]},
+            {"name": "Student Motivation", "keywords": ["student motivation", "engagement", "inspiration"]},
+            {"name": "Collaboration", "keywords": ["collaboration", "teamwork", "professional development"]}
+        ]
+    },
+    {
+        "Job": "Financial Analyst",
+        "skills": [
+            {"name": "Financial Modeling", "keywords": ["financial modeling", "valuation", "forecasting"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "financial analysis", "reporting"]},
+            {"name": "Financial Reporting", "keywords": ["financial reporting", "accounting standards", "financial statements"]},
+            {"name": "Investment Analysis", "keywords": ["investment analysis", "portfolio management", "risk assessment"]},
+            {"name": "Budgeting", "keywords": ["budgeting", "forecasting", "financial planning"]},
+            {"name": "Risk Management", "keywords": ["risk management", "financial risk", "compliance"]},
+            {"name": "Statistical Analysis", "keywords": ["statistical analysis", "financial statistics", "econometrics"]},
+            {"name": "Communication", "keywords": ["communication", "presentation", "financial communication"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "critical thinking"]},
+            {"name": "Excel/Financial Software", "keywords": ["excel", "financial software", "data tools"]}
+        ]
+    },
+    {
+        "Job": "Marketing Manager",
+        "skills": [
+            {"name": "Marketing Strategy", "keywords": ["marketing strategy", "campaign planning", "brand management"]},
+            {"name": "Digital Marketing", "keywords": ["digital marketing", "seo", "sem", "social media marketing"]},
+            {"name": "Market Research", "keywords": ["market research", "data analysis", "consumer insights"]},
+            {"name": "Communication", "keywords": ["communication", "presentation", "public speaking"]},
+            {"name": "Project Management", "keywords": ["project management", "campaign management", "event planning"]},
+            {"name": "Content Creation", "keywords": ["content creation", "copywriting", "content strategy"]},
+            {"name": "Analytics", "keywords": ["analytics", "data analysis", "marketing metrics"]},
+            {"name": "Budget Management", "keywords": ["budget management", "financial planning", "resource allocation"]},
+            {"name": "Leadership", "keywords": ["leadership", "team management", "motivation"]},
+            {"name": "Creativity", "keywords": ["creativity", "innovation", "design thinking"]}
+        ]
+    },
+    {
+        "Job": "Mechanical Engineer",
+        "skills": [
+            {"name": "Engineering Design", "keywords": ["engineering design", "cad", "product design"]},
+            {"name": "Thermodynamics", "keywords": ["thermodynamics", "heat transfer", "fluid mechanics"]},
+            {"name": "Mechanics", "keywords": ["mechanics", "statics", "dynamics"]},
+            {"name": "Materials Science", "keywords": ["materials science", "material selection", "testing"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "critical thinking"]},
+            {"name": "Project Management", "keywords": ["project management", "planning", "execution"]},
+            {"name": "Technical Drawing", "keywords": ["technical drawing", "drafting", "blueprints"]},
+            {"name": "Prototyping", "keywords": ["prototyping", "fabrication", "testing"]},
+            {"name": "Computer-Aided Design (CAD)", "keywords": ["cad", "solidworks", "autocad"]},
+            {"name": "Manufacturing Processes", "keywords": ["manufacturing processes", "machining", "fabrication"]}
+        ]
+    },
+    {
+        "Job": "Graphic Designer",
+        "skills": [
+            {"name": "Visual Communication", "keywords": ["visual communication", "design principles", "typography"]},
+            {"name": "Adobe Creative Suite", "keywords": ["adobe creative suite", "photoshop", "illustrator", "indesign"]},
+            {"name": "Layout Design", "keywords": ["layout design", "page layout", "composition"]},
+            {"name": "Branding", "keywords": ["branding", "logo design", "brand identity"]},
+            {"name": "Typography", "keywords": ["typography", "font selection", "layout"]},
+            {"name": "Color Theory", "keywords": ["color theory", "color palettes", "design psychology"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "presentation"]},
+            {"name": "Creativity", "keywords": ["creativity", "innovation", "conceptualization"]},
+            {"name": "Digital Design", "keywords": ["digital design", "web design", "ui/ux design"]},
+            {"name": "Print Design", "keywords": ["print design", "pre-press", "production"]}
+        ]
+    },
+    {
+        "Job": "Human Resources Manager",
+        "skills": [
+            {"name": "Recruitment", "keywords": ["recruitment", "talent acquisition", "hiring"]},
+            {"name": "Employee Relations", "keywords": ["employee relations", "conflict resolution", "grievance handling"]},
+            {"name": "Training and Development", "keywords": ["training and development", "employee training", "performance improvement"]},
+            {"name": "Compensation and Benefits", "keywords": ["compensation and benefits", "payroll", "benefits administration"]},
+            {"name": "HR Compliance", "keywords": ["hr compliance", "labor law", "employment law"]},
+            {"name": "Performance Management", "keywords": ["performance management", "appraisals", "feedback"]},
+            {"name": "Communication", "keywords": ["communication", "interpersonal skills", "negotiation"]},
+            {"name": "Leadership", "keywords": ["leadership", "team management", "strategic planning"]},
+            {"name": "Organizational Development", "keywords": ["organizational development", "change management", "culture building"]},
+            {"name": "HRIS Management", "keywords": ["hris management", "hr software", "data management"]}
+        ]
+    },
+    {
+        "Job": "Accountant",
+        "skills": [
+            {"name": "Financial Accounting", "keywords": ["financial accounting", "gaap", "ifrs"]},
+            {"name": "Tax Accounting", "keywords": ["tax accounting", "tax preparation", "tax law"]},
+            {"name": "Auditing", "keywords": ["auditing", "internal audit", "external audit"]},
+            {"name": "Budgeting", "keywords": ["budgeting", "forecasting", "financial planning"]},
+            {"name": "Financial Analysis", "keywords": ["financial analysis", "reporting", "variance analysis"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "spreadsheet software", "financial modeling"]},
+            {"name": "Communication", "keywords": ["communication", "financial reporting", "presentation"]},
+            {"name": "Attention to Detail", "keywords": ["attention to detail", "accuracy", "precision"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "critical thinking"]},
+            {"name": "Accounting Software", "keywords": ["accounting software", "quickbooks", "sap"]}
+        ]
+    },
+    {
+        "Job": "Physician",
+        "skills": [
+            {"name": "Medical Diagnosis", "keywords": ["medical diagnosis", "clinical assessment", "differential diagnosis"]},
+            {"name": "Patient Care", "keywords": ["patient care", "treatment planning", "medical management"]},
+            {"name": "Medical Procedures", "keywords": ["medical procedures", "surgical procedures", "diagnostic procedures"]},
+            {"name": "Medical Knowledge", "keywords": ["medical knowledge", "anatomy", "physiology", "pharmacology"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "medical communication"]},
+            {"name": "Critical Thinking", "keywords": ["critical thinking", "problem solving", "decision making"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "medical charts"]},
+            {"name": "Emergency Medicine", "keywords": ["emergency medicine", "trauma care", "acute care"]},
+            {"name": "Medical Ethics", "keywords": ["medical ethics", "patient confidentiality", "informed consent"]},
+            {"name": "Teamwork", "keywords": ["teamwork", "collaboration", "interdisciplinary care"]}
+        ]
+    },
+    {
+        "Job": "Lawyer",
+        "skills": [
+            {"name": "Legal Research", "keywords": ["legal research", "case law", "statutory law"]},
+            {"name": "Legal Writing", "keywords": ["legal writing", "briefs", "memoranda"]},
+            {"name": "Legal Analysis", "keywords": ["legal analysis", "case analysis", "statutory interpretation"]},
+            {"name": "Negotiation", "keywords": ["negotiation", "mediation", "settlement"]},
+            {"name": "Oral Advocacy", "keywords": ["oral advocacy", "courtroom presentation", "argumentation"]},
+            {"name": "Client Counseling", "keywords": ["client counseling", "legal advice", "representation"]},
+            {"name": "Communication", "keywords": ["communication", "persuasion", "public speaking"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "critical thinking", "analytical skills"]},
+            {"name": "Legal Documentation", "keywords": ["legal documentation", "contracts", "pleadings"]},
+            {"name": "Knowledge of Law", "keywords": ["knowledge of law", "jurisprudence", "legal principles"]}
+        ]
+    },
+    {
+        "Job": "Electrician",
+        "skills": [
+            {"name": "Electrical Systems", "keywords": ["electrical systems", "wiring", "circuitry"]},
+            {"name": "Electrical Installation", "keywords": ["electrical installation", "wiring installation", "fixture installation"]},
+            {"name": "Electrical Troubleshooting", "keywords": ["electrical troubleshooting", "fault finding", "repair"]},
+            {"name": "Electrical Safety", "keywords": ["electrical safety", "code compliance", "safety procedures"]},
+            {"name": "Blueprint Reading", "keywords": ["blueprint reading", "electrical schematics", "diagrams"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "electrical tools", "testing equipment"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "diagnostic skills", "critical thinking"]},
+            {"name": "Communication", "keywords": ["communication", "customer service", "explanation"]},
+            {"name": "Code Compliance", "keywords": ["code compliance", "national electrical code", "local codes"]},
+            {"name": "Maintenance", "keywords": ["maintenance", "preventive maintenance", "repair"]}
+        ]
+    },
+    {
+        "Job": "Physical Therapist",
+        "skills": [
+            {"name": "Patient Assessment", "keywords": ["patient assessment", "physical evaluation", "musculoskeletal assessment"]},
+            {"name": "Treatment Planning", "keywords": ["treatment planning", "rehabilitation planning", "exercise prescription"]},
+            {"name": "Manual Therapy", "keywords": ["manual therapy", "joint mobilization", "soft tissue mobilization"]},
+            {"name": "Therapeutic Exercise", "keywords": ["therapeutic exercise", "rehabilitation exercises", "strength training"]},
+            {"name": "Patient Education", "keywords": ["patient education", "home exercise programs", "injury prevention"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "interpersonal skills"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "critical thinking", "clinical reasoning"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "progress notes"]},
+            {"name": "Assistive Devices", "keywords": ["assistive devices", "orthotics", "prosthetics"]},
+            {"name": "Anatomy and Physiology", "keywords": ["anatomy", "physiology", "kinesiology"]}
+        ]
+    },
+    {
+        "Job": "Architect",
+        "skills": [
+            {"name": "Architectural Design", "keywords": ["architectural design", "building design", "space planning"]},
+            {"name": "CAD Software", "keywords": ["cad software", "autocad", "revit", "sketchup"]},
+            {"name": "Building Codes", "keywords": ["building codes", "zoning regulations", "accessibility standards"]},
+            {"name": "Project Management", "keywords": ["project management", "construction management", "scheduling"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "presentation skills"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "design challenges", "technical issues"]},
+            {"name": "Sustainability", "keywords": ["sustainability", "green building", "leed certification"]},
+            {"name": "Site Planning", "keywords": ["site planning", "urban planning", "land development"]},
+            {"name": "Construction Documents", "keywords": ["construction documents", "blueprints", "specifications"]},
+            {"name": "3D Modeling", "keywords": ["3d modeling", "rendering", "visualization"]}
+        ]
+    },
+    {
+        "Job": "Web Developer",
+        "skills": [
+            {"name": "Front-End Development", "keywords": ["front-end development", "html", "css", "javascript"]},
+            {"name": "Back-End Development", "keywords": ["back-end development", "server-side programming", "database management"]},
+            {"name": "Web Design", "keywords": ["web design", "ui/ux", "responsive design"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "python", "php", "java"]},
+            {"name": "Database Management", "keywords": ["database management", "sql", "mysql", "mongodb"]},
+            {"name": "Version Control", "keywords": ["version control", "git", "github", "gitlab"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "debugging", "troubleshooting"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "technical documentation"]},
+            {"name": "Web Frameworks", "keywords": ["web frameworks", "react", "angular", "vue.js"]},
+            {"name": "API Integration", "keywords": ["api integration", "restful apis", "web services"]}
+        ]
+    },
+    {
+        "Job": "Dental Hygienist",
+        "skills": [
+            {"name": "Dental Prophylaxis", "keywords": ["dental prophylaxis", "teeth cleaning", "scaling"]},
+            {"name": "Periodontal Assessment", "keywords": ["periodontal assessment", "gum health", "probing"]},
+            {"name": "Patient Education", "keywords": ["patient education", "oral hygiene instruction", "preventive care"]},
+            {"name": "Radiography", "keywords": ["radiography", "dental x-rays", "panoramic x-rays"]},
+            {"name": "Dental Charting", "keywords": ["dental charting", "patient records", "documentation"]},
+            {"name": "Sterilization", "keywords": ["sterilization", "infection control", "aseptic technique"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "interpersonal skills"]},
+            {"name": "Preventive Dentistry", "keywords": ["preventive dentistry", "fluoride application", "sealants"]},
+            {"name": "Oral Health Knowledge", "keywords": ["oral health knowledge", "dental anatomy", "periodontal disease"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "dental instruments", "equipment operation"]}
+        ]
+    },
+    {
+        "Job": "Police Officer",
+        "skills": [
+            {"name": "Law Enforcement", "keywords": ["law enforcement", "crime prevention", "public safety"]},
+            {"name": "Crisis Management", "keywords": ["crisis management", "conflict resolution", "de-escalation"]},
+            {"name": "Investigation", "keywords": ["investigation", "crime scene investigation", "evidence collection"]},
+            {"name": "Emergency Response", "keywords": ["emergency response", "first aid", "cpr"]},
+            {"name": "Communication", "keywords": ["communication", "interpersonal skills", "report writing"]},
+            {"name": "Physical Fitness", "keywords": ["physical fitness", "self-defense", "agility"]},
+            {"name": "Firearms Proficiency", "keywords": ["firearms proficiency", "weapon handling", "safety"]},
+            {"name": "Legal Knowledge", "keywords": ["legal knowledge", "criminal law", "traffic law"]},
+            {"name": "Community Policing", "keywords": ["community policing", "public relations", "outreach"]},
+            {"name": "Situational Awareness", "keywords": ["situational awareness", "observation", "alertness"]}
+        ]
+    },
+    {
+        "Job": "Pharmacist",
+        "skills": [
+            {"name": "Medication Dispensing", "keywords": ["medication dispensing", "prescription filling", "drug compounding"]},
+            {"name": "Drug Interactions", "keywords": ["drug interactions", "pharmacokinetics", "pharmacodynamics"]},
+            {"name": "Patient Counseling", "keywords": ["patient counseling", "medication education", "adherence"]},
+            {"name": "Pharmaceutical Care", "keywords": ["pharmaceutical care", "medication therapy management", "clinical pharmacy"]},
+            {"name": "Medication Safety", "keywords": ["medication safety", "error prevention", "adverse drug reactions"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "medical communication"]},
+            {"name": "Knowledge of Pharmacology", "keywords": ["knowledge of pharmacology", "drug information", "therapeutic uses"]},
+            {"name": "Inventory Management", "keywords": ["inventory management", "stock control", "ordering"]},
+            {"name": "Regulatory Compliance", "keywords": ["regulatory compliance", "pharmacy law", "controlled substances"]},
+            {"name": "Clinical Knowledge", "keywords": ["clinical knowledge", "disease states", "treatment guidelines"]}
+        ]
+    },
+    {
+        "Job": "Chef",
+        "skills": [
+            {"name": "Culinary Techniques", "keywords": ["culinary techniques", "cooking methods", "food preparation"]},
+            {"name": "Menu Planning", "keywords": ["menu planning", "recipe development", "costing"]},
+            {"name": "Food Safety", "keywords": ["food safety", "haccp", "sanitation"]},
+            {"name": "Kitchen Management", "keywords": ["kitchen management", "inventory control", "staff supervision"]},
+            {"name": "Creativity", "keywords": ["creativity", "flavor pairing", "presentation"]},
+            {"name": "Time Management", "keywords": ["time management", "organization", "efficiency"]},
+            {"name": "Communication", "keywords": ["communication", "teamwork", "instruction"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "kitchen equipment", "maintenance"]},
+            {"name": "Ingredient Knowledge", "keywords": ["ingredient knowledge", "food sourcing", "seasonality"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "adaptability", "troubleshooting"]}
+        ]
+    },
+    {
+        "Job": "Veterinarian",
+        "skills": [
+            {"name": "Animal Diagnosis", "keywords": ["animal diagnosis", "clinical examination", "diagnostic testing"]},
+            {"name": "Animal Surgery", "keywords": ["animal surgery", "surgical procedures", "anesthesia"]},
+            {"name": "Animal Treatment", "keywords": ["animal treatment", "medication administration", "wound care"]},
+            {"name": "Animal Behavior", "keywords": ["animal behavior", "handling", "training"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "medical communication"]},
+            {"name": "Medical Knowledge", "keywords": ["medical knowledge", "veterinary medicine", "animal physiology"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "critical thinking", "diagnostic reasoning"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "medical charts"]},
+            {"name": "Emergency Care", "keywords": ["emergency care", "trauma management", "critical care"]},
+            {"name": "Client Education", "keywords": ["client education", "preventive care", "animal health"]}
+        ]
+    },
+    {
+        "Job": "Civil Engineer",
+        "skills": [
+            {"name": "Structural Design", "keywords": ["structural design", "building design", "bridge design"]},
+            {"name": "Geotechnical Engineering", "keywords": ["geotechnical engineering", "soil testing", "foundation design"]},
+            {"name": "Transportation Engineering", "keywords": ["transportation engineering", "road design", "traffic analysis"]},
+            {"name": "Water Resources Engineering", "keywords": ["water resources engineering", "hydrology", "hydraulic design"]},
+            {"name": "Project Management", "keywords": ["project management", "construction management", "scheduling"]},
+            {"name": "CAD Software", "keywords": ["cad software", "autocad", "civil 3d"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "design challenges", "technical issues"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "technical reporting"]},
+            {"name": "Building Codes", "keywords": ["building codes", "safety regulations", "environmental regulations"]},
+            {"name": "Surveying", "keywords": ["surveying", "land surveying", "topographic surveys"]}
+        ]
+    },
+    {
+        "Job": "Psychologist",
+        "skills": [
+            {"name": "Psychological Assessment", "keywords": ["psychological assessment", "testing", "evaluation"]},
+            {"name": "Psychotherapy", "keywords": ["psychotherapy", "counseling", "treatment planning"]},
+            {"name": "Behavioral Analysis", "keywords": ["behavioral analysis", "observation", "data collection"]},
+            {"name": "Crisis Intervention", "keywords": ["crisis intervention", "mental health emergencies", "support"]},
+            {"name": "Communication", "keywords": ["communication", "therapeutic communication", "interpersonal skills"]},
+            {"name": "Ethical Practice", "keywords": ["ethical practice", "confidentiality", "professional standards"]},
+            {"name": "Research Methodology", "keywords": ["research methodology", "data analysis", "statistical analysis"]},
+            {"name": "Clinical Documentation", "keywords": ["clinical documentation", "patient records", "progress notes"]},
+            {"name": "Knowledge of Psychological Theories", "keywords": ["knowledge of psychological theories", "cognitive behavioral therapy", "psychodynamic therapy"]},
+            {"name": "Empathy", "keywords": ["empathy", "compassion", "understanding"]}
+        ]
+    },
+    {
+        "Job": "Dental Assistant",
+        "skills": [
+            {"name": "Dental Assisting", "keywords": ["dental assisting", "chairside assistance", "instrument handling"]},
+            {"name": "Sterilization", "keywords": ["sterilization", "infection control", "aseptic technique"]},
+            {"name": "Radiography", "keywords": ["radiography", "dental x-rays", "panoramic x-rays"]},
+            {"name": "Dental Charting", "keywords": ["dental charting", "patient records", "documentation"]},
+            {"name": "Patient Preparation", "keywords": ["patient preparation", "comfort", "support"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "interpersonal skills"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "dental instruments", "equipment operation"]},
+            {"name": "Inventory Management", "keywords": ["inventory management", "dental supplies", "stock control"]},
+            {"name": "Office Procedures", "keywords": ["office procedures", "scheduling", "record keeping"]},
+            {"name": "Dental Terminology", "keywords": ["dental terminology", "anatomy", "procedures"]}
+        ]
+    },
+    {
+        "Job": "Social Worker",
+        "skills": [
+            {"name": "Case Management", "keywords": ["case management", "client advocacy", "resource coordination"]},
+            {"name": "Crisis Intervention", "keywords": ["crisis intervention", "mental health emergencies", "support"]},
+            {"name": "Counseling", "keywords": ["counseling", "individual counseling", "group counseling"]},
+            {"name": "Community Resources", "keywords": ["community resources", "referral services", "advocacy"]},
+            {"name": "Communication", "keywords": ["communication", "interpersonal skills", "report writing"]},
+            {"name": "Ethical Practice", "keywords": ["ethical practice", "confidentiality", "professional standards"]},
+            {"name": "Advocacy", "keywords": ["advocacy", "social justice", "policy change"]},
+            {"name": "Assessment", "keywords": ["assessment", "needs assessment", "risk assessment"]},
+            {"name": "Knowledge of Social Services", "keywords": ["knowledge of social services", "welfare programs", "community support"]},
+            {"name": "Empathy", "keywords": ["empathy", "compassion", "understanding"]}
+        ]
+    },
+    {
+        "Job": "Plumber",
+        "skills": [
+            {"name": "Plumbing Systems", "keywords": ["plumbing systems", "pipe installation", "drainage systems"]},
+            {"name": "Pipe Fitting", "keywords": ["pipe fitting", "soldering", "threading"]},
+            {"name": "Plumbing Repair", "keywords": ["plumbing repair", "leak detection", "fixture repair"]},
+            {"name": "Blueprint Reading", "keywords": ["blueprint reading", "plumbing schematics", "diagrams"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "plumbing tools", "testing equipment"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "diagnostic skills", "troubleshooting"]},
+            {"name": "Communication", "keywords": ["communication", "customer service", "explanation"]},
+            {"name": "Code Compliance", "keywords": ["code compliance", "plumbing codes", "safety regulations"]},
+            {"name": "Maintenance", "keywords": ["maintenance", "preventive maintenance", "repair"]},
+            {"name": "Water Heater Repair", "keywords": ["water heater repair", "installation", "troubleshooting"]}
+        ]
+    },
+    {
+        "Job": "Pilot",
+        "skills": [
+            {"name": "Flight Operations", "keywords": ["flight operations", "navigation", "flight planning"]},
+            {"name": "Aircraft Handling", "keywords": ["aircraft handling", "takeoff", "landing", "in-flight maneuvers"]},
+            {"name": "Aeronautical Knowledge", "keywords": ["aeronautical knowledge", "aerodynamics", "meteorology"]},
+            {"name": "Instrument Flying", "keywords": ["instrument flying", "ifr", "navigation systems"]},
+            {"name": "Emergency Procedures", "keywords": ["emergency procedures", "system failures", "adverse weather"]},
+            {"name": "Communication", "keywords": ["communication", "air traffic control", "crew communication"]},
+            {"name": "Situational Awareness", "keywords": ["situational awareness", "decision making", "alertness"]},
+            {"name": "Regulations", "keywords": ["regulations", "faa regulations", "aviation law"]},
+            {"name": "Technical Proficiency", "keywords": ["technical proficiency", "aircraft systems", "flight management systems"]},
+            {"name": "Teamwork", "keywords": ["teamwork", "crew resource management", "collaboration"]}
+        ]
+    },
+    {
+        "Job": "Occupational Therapist",
+        "skills": [
+            {"name": "Patient Assessment", "keywords": ["patient assessment", "functional assessment", "activities of daily living"]},
+            {"name": "Treatment Planning", "keywords": ["treatment planning", "rehabilitation planning", "adaptive equipment"]},
+            {"name": "Therapeutic Activities", "keywords": ["therapeutic activities", "functional training", "sensory integration"]},
+            {"name": "Patient Education", "keywords": ["patient education", "adaptive strategies", "home modifications"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "interpersonal skills"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "critical thinking", "clinical reasoning"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "progress notes"]},
+            {"name": "Assistive Technology", "keywords": ["assistive technology", "adaptive devices", "environmental modifications"]},
+            {"name": "Anatomy and Physiology", "keywords": ["anatomy", "physiology", "kinesiology"]},
+            {"name": "Activity Analysis", "keywords": ["activity analysis", "task breakdown", "functional components"]}
+        ]
+    },
+    {
+        "Job": "Radiologic Technologist",
+        "skills": [
+            {"name": "Radiography", "keywords": ["radiography", "x-ray imaging", "diagnostic imaging"]},
+            {"name": "Patient Positioning", "keywords": ["patient positioning", "anatomy", "imaging techniques"]},
+            {"name": "Radiation Safety", "keywords": ["radiation safety", "dose reduction", "safety protocols"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "x-ray machines", "imaging software"]},
+            {"name": "Medical Imaging Procedures", "keywords": ["medical imaging procedures", "ct scans", "mri scans"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "medical communication"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "imaging reports"]},
+            {"name": "Anatomy and Physiology", "keywords": ["anatomy", "physiology", "medical terminology"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "image quality", "technical issues"]},
+            {"name": "Sterile Technique", "keywords": ["sterile technique", "infection control", "aseptic procedures"]}
+        ]
+    },
+    {
+        "Job": "Interior Designer",
+        "skills": [
+            {"name": "Space Planning", "keywords": ["space planning", "layout design", "furniture arrangement"]},
+            {"name": "Color Theory", "keywords": ["color theory", "color palettes", "design psychology"]},
+            {"name": "Material Selection", "keywords": ["material selection", "fabric selection", "finish selection"]},
+            {"name": "CAD Software", "keywords": ["cad software", "autocad", "sketchup", "revit"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "presentation skills"]},
+            {"name": "Creativity", "keywords": ["creativity", "design concepts", "innovation"]},
+            {"name": "Project Management", "keywords": ["project management", "budgeting", "scheduling"]},
+            {"name": "Building Codes", "keywords": ["building codes", "safety regulations", "accessibility standards"]},
+            {"name": "3D Modeling", "keywords": ["3d modeling", "rendering", "visualization"]},
+            {"name": "Furniture and Fixtures", "keywords": ["furniture and fixtures", "product knowledge", "sourcing"]}
+        ]
+    },
+    {
+        "Job": "Electrical Engineer",
+        "skills": [
+            {"name": "Circuit Design", "keywords": ["circuit design", "analog circuits", "digital circuits"]},
+            {"name": "Power Systems", "keywords": ["power systems", "electrical grids", "power generation"]},
+            {"name": "Signal Processing", "keywords": ["signal processing", "digital signal processing", "image processing"]},
+            {"name": "Embedded Systems", "keywords": ["embedded systems", "microcontrollers", "firmware development"]},
+            {"name": "CAD Software", "keywords": ["cad software", "pcb design", "circuit simulation"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "troubleshooting"]},
+            {"name": "Communication", "keywords": ["communication", "technical reporting", "presentation skills"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "c/c++", "python", "matlab"]},
+            {"name": "Testing and Measurement", "keywords": ["testing and measurement", "electronic testing", "instrumentation"]}
+        ]
+    },
+    {
+        "Job": "Carpenter",
+        "skills": [
+            {"name": "Woodworking", "keywords": ["woodworking", "carpentry", "joinery"]},
+            {"name": "Framing", "keywords": ["framing", "structural framing", "roof framing"]},
+            {"name": "Finish Carpentry", "keywords": ["finish carpentry", "trim work", "cabinet installation"]},
+            {"name": "Blueprint Reading", "keywords": ["blueprint reading", "construction drawings", "schematics"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "power tools", "hand tools"]},
+            {"name": "Measurement and Calculation", "keywords": ["measurement and calculation", "layout", "estimation"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "construction challenges", "material optimization"]},
+            {"name": "Communication", "keywords": ["communication", "teamwork", "instruction"]},
+            {"name": "Safety Procedures", "keywords": ["safety procedures", "construction safety", "tool safety"]},
+            {"name": "Material Knowledge", "keywords": ["material knowledge", "lumber types", "hardware"]}
+        ]
+    },
+    {
+        "Job": "Veterinary Technician",
+        "skills": [
+            {"name": "Animal Handling", "keywords": ["animal handling", "restraint", "behavioral management"]},
+            {"name": "Surgical Assistance", "keywords": ["surgical assistance", "anesthesia monitoring", "instrument preparation"]},
+            {"name": "Laboratory Procedures", "keywords": ["laboratory procedures", "blood draws", "microscopy"]},
+            {"name": "Radiography", "keywords": ["radiography", "x-ray imaging", "positioning"]},
+            {"name": "Medication Administration", "keywords": ["medication administration", "injections", "oral medication"]},
+            {"name": "Patient Care", "keywords": ["patient care", "wound care", "vital signs monitoring"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "medical documentation"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "medical equipment", "sterilization equipment"]},
+            {"name": "Knowledge of Animal Health", "keywords": ["knowledge of animal health", "disease prevention", "nutrition"]},
+            {"name": "Emergency Care", "keywords": ["emergency care", "triage", "critical care"]}
+        ]
+    },
+    {
+        "Job": "Massage Therapist",
+        "skills": [
+            {"name": "Massage Techniques", "keywords": ["massage techniques", "swedish massage", "deep tissue massage"]},
+            {"name": "Anatomy and Physiology", "keywords": ["anatomy", "physiology", "kinesiology"]},
+            {"name": "Client Assessment", "keywords": ["client assessment", "medical history", "muscle evaluation"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "therapeutic communication"]},
+            {"name": "Hygiene and Sanitation", "keywords": ["hygiene", "sanitation", "infection control"]},
+            {"name": "Knowledge of Contraindications", "keywords": ["contraindications", "medical conditions", "precautions"]},
+            {"name": "Body Mechanics", "keywords": ["body mechanics", "ergonomics", "injury prevention"]},
+            {"name": "Time Management", "keywords": ["time management", "scheduling", "session planning"]},
+            {"name": "Professionalism", "keywords": ["professionalism", "ethics", "confidentiality"]},
+            {"name": "Customer Service", "keywords": ["customer service", "client satisfaction", "relationship building"]}
+        ]
+    },
+    {
+        "Job": "Construction Manager",
+        "skills": [
+            {"name": "Project Management", "keywords": ["project management", "scheduling", "budgeting"]},
+            {"name": "Construction Planning", "keywords": ["construction planning", "site logistics", "resource allocation"]},
+            {"name": "Budget Management", "keywords": ["budget management", "cost control", "financial forecasting"]},
+            {"name": "Scheduling", "keywords": ["scheduling", "critical path method", "gantt charts"]},
+            {"name": "Contract Management", "keywords": ["contract management", "negotiation", "compliance"]},
+            {"name": "Safety Management", "keywords": ["safety management", "osha regulations", "risk assessment"]},
+            {"name": "Communication", "keywords": ["communication", "team leadership", "client communication"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "conflict resolution", "technical issues"]},
+            {"name": "Blueprint Reading", "keywords": ["blueprint reading", "construction drawings", "specifications"]},
+            {"name": "Quality Control", "keywords": ["quality control", "inspection", "compliance"]}
+        ]
+    },
+    {
+        "Job": "Respiratory Therapist",
+        "skills": [
+            {"name": "Respiratory Care", "keywords": ["respiratory care", "oxygen therapy", "mechanical ventilation"]},
+            {"name": "Patient Assessment", "keywords": ["patient assessment", "pulmonary function testing", "arterial blood gas analysis"]},
+            {"name": "Airway Management", "keywords": ["airway management", "intubation", "bronchoscopy assistance"]},
+            {"name": "Critical Care", "keywords": ["critical care", "ventilator management", "emergency response"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "medical communication"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "progress notes"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "ventilators", "nebulizers"]},
+            {"name": "Knowledge of Respiratory Diseases", "keywords": ["knowledge of respiratory diseases", "asthma", "copd"]},
+            {"name": "Patient Education", "keywords": ["patient education", "inhaler technique", "breathing exercises"]},
+            {"name": "Emergency Response", "keywords": ["emergency response", "cpr", "respiratory distress"]}
+        ]
+    },
+    {
+        "Job": "Automotive Technician",
+        "skills": [
+            {"name": "Automotive Repair", "keywords": ["automotive repair", "engine repair", "transmission repair"]},
+            {"name": "Diagnostics", "keywords": ["diagnostics", "computer diagnostics", "electrical diagnostics"]},
+            {"name": "Maintenance", "keywords": ["maintenance", "oil changes", "tire rotations"]},
+            {"name": "Electrical Systems", "keywords": ["electrical systems", "wiring repair", "battery replacement"]},
+            {"name": "Brake Systems", "keywords": ["brake systems", "brake repair", "brake replacement"]},
+            {"name": "Suspension Systems", "keywords": ["suspension systems", "alignment", "shock replacement"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "diagnostic tools", "power tools"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "troubleshooting", "diagnostic reasoning"]},
+            {"name": "Communication", "keywords": ["communication", "customer service", "explanation"]},
+            {"name": "Technical Documentation", "keywords": ["technical documentation", "repair manuals", "service bulletins"]}
+        ]
+    },
+    {
+        "Job": "Paralegal",
+        "skills": [
+            {"name": "Legal Research", "keywords": ["legal research", "case law", "statutory law"]},
+            {"name": "Legal Writing", "keywords": ["legal writing", "drafting documents", "pleadings"]},
+            {"name": "Document Preparation", "keywords": ["document preparation", "contracts", "discovery requests"]},
+            {"name": "Case Management", "keywords": ["case management", "organizing files", "scheduling"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "legal correspondence"]},
+            {"name": "Legal Terminology", "keywords": ["legal terminology", "court procedures", "legal concepts"]},
+            {"name": "Attention to Detail", "keywords": ["attention to detail", "accuracy", "precision"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "critical thinking"]},
+            {"name": "Computer Proficiency", "keywords": ["computer proficiency", "legal software", "database management"]},
+            {"name": "Knowledge of Legal Procedures", "keywords": ["knowledge of legal procedures", "court rules", "filing procedures"]}
+        ]
+    },
+    {
+        "Job": "Firefighter",
+        "skills": [
+            {"name": "Fire Suppression", "keywords": ["fire suppression", "hose operations", "extinguishing techniques"]},
+            {"name": "Emergency Response", "keywords": ["emergency response", "rescue operations", "first aid"]},
+            {"name": "Hazardous Materials", "keywords": ["hazardous materials", "hazmat response", "decontamination"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "firefighting equipment", "rescue tools"]},
+            {"name": "Physical Fitness", "keywords": ["physical fitness", "strength training", "endurance"]},
+            {"name": "Communication", "keywords": ["communication", "teamwork", "radio communication"]},
+            {"name": "Rescue Techniques", "keywords": ["rescue techniques", "extrication", "confined space rescue"]},
+            {"name": "Knowledge of Fire Science", "keywords": ["knowledge of fire science", "fire behavior", "building construction"]},
+            {"name": "Safety Procedures", "keywords": ["safety procedures", "incident command", "risk assessment"]},
+            {"name": "First Aid and CPR", "keywords": ["first aid", "cpr", "medical emergencies"]}
+        ]
+    },
+    {
+        "Job": "Speech-Language Pathologist",
+        "skills": [
+            {"name": "Speech Therapy", "keywords": ["speech therapy", "articulation therapy", "language therapy"]},
+            {"name": "Language Assessment", "keywords": ["language assessment", "diagnostic testing", "evaluation"]},
+            {"name": "Communication Disorders", "keywords": ["communication disorders", "aphasia", "dysarthria"]},
+            {"name": "Swallowing Disorders", "keywords": ["swallowing disorders", "dysphagia", "feeding therapy"]},
+            {"name": "Patient Education", "keywords": ["patient education", "strategies", "home programs"]},
+            {"name": "Communication", "keywords": ["communication", "therapeutic communication", "interpersonal skills"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "progress notes"]},
+            {"name": "Knowledge of Anatomy and Physiology", "keywords": ["knowledge of anatomy", "physiology", "neuroanatomy"]},
+            {"name": "Assessment Tools", "keywords": ["assessment tools", "standardized tests", "informal assessments"]},
+            {"name": "Intervention Strategies", "keywords": ["intervention strategies", "evidence-based practice", "treatment planning"]}
+        ]
+    },
+    {
+        "Job": "Cybersecurity Analyst",
+        "skills": [
+            {"name": "Network Security", "keywords": ["network security", "firewalls", "intrusion detection"]},
+            {"name": "Security Analysis", "keywords": ["security analysis", "vulnerability scanning", "penetration testing"]},
+            {"name": "Incident Response", "keywords": ["incident response", "threat analysis", "forensics"]},
+            {"name": "Security Tools", "keywords": ["security tools", "siem", "ids/ips"]},
+            {"name": "Risk Management", "keywords": ["risk management", "security policies", "compliance"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "python", "powershell", "scripting"]},
+            {"name": "Operating Systems", "keywords": ["operating systems", "windows", "linux", "macos"]},
+            {"name": "Communication", "keywords": ["communication", "technical reporting", "incident reports"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "critical thinking"]},
+            {"name": "Knowledge of Security Standards", "keywords": ["knowledge of security standards", "iso 27001", "nist"]}
+        ]
+    },
+    {
+        "Job": "Nurse Practitioner",
+        "skills": [
+            {"name": "Patient Assessment", "keywords": ["patient assessment", "physical examination", "medical history"]},
+            {"name": "Diagnosis and Treatment", "keywords": ["diagnosis", "treatment planning", "medication management"]},
+            {"name": "Patient Education", "keywords": ["patient education", "health promotion", "disease prevention"]},
+            {"name": "Medical Procedures", "keywords": ["medical procedures", "minor surgeries", "diagnostic procedures"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "medical communication"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "progress notes"]},
+            {"name": "Knowledge of Pharmacology", "keywords": ["knowledge of pharmacology", "drug interactions", "medication management"]},
+            {"name": "Critical Thinking", "keywords": ["critical thinking", "problem solving", "clinical reasoning"]},
+            {"name": "Leadership", "keywords": ["leadership", "team collaboration", "patient advocacy"]},
+            {"name": "Preventive Care", "keywords": ["preventive care", "screening", "health maintenance"]}
+        ]
+    },
+    {
+        "Job": "Paramedic",
+        "skills": [
+            {"name": "Emergency Medical Care", "keywords": ["emergency medical care", "pre-hospital care", "trauma care"]},
+            {"name": "Patient Assessment", "keywords": ["patient assessment", "vital signs", "medical history"]},
+            {"name": "Advanced Life Support", "keywords": ["advanced life support", "acls", "intubation"]},
+            {"name": "Medication Administration", "keywords": ["medication administration", "iv therapy", "injections"]},
+            {"name": "Emergency Vehicle Operation", "keywords": ["emergency vehicle operation", "driving", "navigation"]},
+            {"name": "Communication", "keywords": ["communication", "radio communication", "patient communication"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient care reports", "incident reports"]},
+            {"name": "Knowledge of Medical Protocols", "keywords": ["knowledge of medical protocols", "standard operating procedures", "guidelines"]},
+            {"name": "Critical Thinking", "keywords": ["critical thinking", "decision making", "problem solving"]},
+            {"name": "Teamwork", "keywords": ["teamwork", "collaboration", "coordination"]}
+        ]
+    },
+    {
+        "Job": "Aerospace Engineer",
+        "skills": [
+            {"name": "Aerodynamics", "keywords": ["aerodynamics", "fluid dynamics", "aircraft design"]},
+            {"name": "Propulsion Systems", "keywords": ["propulsion systems", "jet engines", "rocket propulsion"]},
+            {"name": "Structural Analysis", "keywords": ["structural analysis", "stress analysis", "finite element analysis"]},
+            {"name": "Control Systems", "keywords": ["control systems", "flight control", "guidance systems"]},
+            {"name": "CAD Software", "keywords": ["cad software", "catia", "ansys"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "critical thinking"]},
+            {"name": "Communication", "keywords": ["communication", "technical reporting", "presentation skills"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "matlab", "python", "c++"]},
+            {"name": "Project Management", "keywords": ["project management", "design reviews", "testing"]},
+            {"name": "Knowledge of Aerospace Standards", "keywords": ["knowledge of aerospace standards", "faa regulations", "mil-specs"]}
+        ]
+    },
+    {
+        "Job": "Physical Therapy Assistant",
+        "skills": [
+            {"name": "Therapeutic Exercise", "keywords": ["therapeutic exercise", "rehabilitation exercises", "strength training"]},
+            {"name": "Patient Assistance", "keywords": ["patient assistance", "ambulation", "transfers"]},
+            {"name": "Modalities", "keywords": ["modalities", "ultrasound", "electrical stimulation"]},
+            {"name": "Patient Education", "keywords": ["patient education", "home exercise programs", "injury prevention"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "interpersonal skills"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "progress notes"]},
+            {"name": "Anatomy and Physiology", "keywords": ["anatomy", "physiology", "kinesiology"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "therapeutic equipment", "exercise equipment"]},
+            {"name": "Patient Monitoring", "keywords": ["patient monitoring", "vital signs", "progress tracking"]},
+            {"name": "Knowledge of Rehabilitation Techniques", "keywords": ["knowledge of rehabilitation techniques", "manual therapy", "functional training"]}
+        ]
+    },
+    {
+        "Job": "Real Estate Agent",
+        "skills": [
+            {"name": "Real Estate Sales", "keywords": ["real estate sales", "property marketing", "negotiation"]},
+            {"name": "Market Analysis", "keywords": ["market analysis", "property valuation", "market trends"]},
+            {"name": "Client Relationship Management", "keywords": ["client relationship management", "customer service", "networking"]},
+            {"name": "Communication", "keywords": ["communication", "persuasion", "presentation skills"]},
+            {"name": "Legal Knowledge", "keywords": ["legal knowledge", "real estate law", "contracts"]},
+            {"name": "Negotiation", "keywords": ["negotiation", "contract negotiation", "deal closing"]},
+            {"name": "Marketing", "keywords": ["marketing", "digital marketing", "property promotion"]},
+            {"name": "Organization", "keywords": ["organization", "time management", "record keeping"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "conflict resolution", "transaction management"]},
+            {"name": "Knowledge of Real Estate Transactions", "keywords": ["knowledge of real estate transactions", "financing", "closing processes"]}
+        ]
+    },
+    {
+        "Job": "Optometrist",
+        "skills": [
+            {"name": "Eye Examination", "keywords": ["eye examination", "vision testing", "ocular health assessment"]},
+            {"name": "Diagnosis of Eye Diseases", "keywords": ["diagnosis of eye diseases", "glaucoma", "cataracts"]},
+            {"name": "Prescription of Eyewear", "keywords": ["prescription of eyewear", "eyeglasses", "contact lenses"]},
+            {"name": "Patient Education", "keywords": ["patient education", "eye care", "vision correction"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "medical communication"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "examination reports"]},
+            {"name": "Knowledge of Ocular Anatomy", "keywords": ["knowledge of ocular anatomy", "physiology", "pathology"]},
+            {"name": "Use of Diagnostic Equipment", "keywords": ["use of diagnostic equipment", "phoropters", "retinoscopes"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "diagnostic reasoning", "treatment planning"]},
+            {"name": "Knowledge of Ophthalmic Medications", "keywords": ["knowledge of ophthalmic medications", "eye drops", "therapeutic agents"]}
+        ]
+    },
+    {
+        "Job": "Ultrasound Technician",
+        "skills": [
+            {"name": "Ultrasound Imaging", "keywords": ["ultrasound imaging", "sonography", "diagnostic imaging"]},
+            {"name": "Patient Positioning", "keywords": ["patient positioning", "anatomy", "imaging techniques"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "ultrasound machines", "transducers"]},
+            {"name": "Medical Imaging Procedures", "keywords": ["medical imaging procedures", "abdominal ultrasound", "obstetric ultrasound"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "medical communication"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "imaging reports"]},
+            {"name": "Anatomy and Physiology", "keywords": ["anatomy", "physiology", "medical terminology"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "image quality", "technical issues"]},
+            {"name": "Sterile Technique", "keywords": ["sterile technique", "infection control", "aseptic procedures"]},
+            {"name": "Knowledge of Ultrasound Physics", "keywords": ["knowledge of ultrasound physics", "wave propagation", "image formation"]}
+        ]
+    },
+    {
+        "Job": "Welder",
+        "skills": [
+            {"name": "Welding Techniques", "keywords": ["welding techniques", "mig welding", "tig welding", "stick welding"]},
+            {"name": "Metal Fabrication", "keywords": ["metal fabrication", "cutting", "shaping", "joining"]},
+            {"name": "Blueprint Reading", "keywords": ["blueprint reading", "welding symbols", "fabrication drawings"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "welding equipment", "grinders"]},
+            {"name": "Measurement and Calculation", "keywords": ["measurement and calculation", "layout", "fit-up"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "weld defects", "material selection"]},
+            {"name": "Communication", "keywords": ["communication", "teamwork", "instruction"]},
+            {"name": "Safety Procedures", "keywords": ["safety procedures", "welding safety", "ppe"]},
+            {"name": "Material Knowledge", "keywords": ["material knowledge", "metal types", "welding rods"]},
+            {"name": "Quality Control", "keywords": ["quality control", "weld inspection", "testing"]}
+        ]
+    },
+    {
+        "Job": "Physician Assistant",
+        "skills": [
+            {"name": "Patient Assessment", "keywords": ["patient assessment", "physical examination", "medical history"]},
+            {"name": "Diagnosis and Treatment", "keywords": ["diagnosis", "treatment planning", "medication management"]},
+            {"name": "Medical Procedures", "keywords": ["medical procedures", "minor surgeries", "diagnostic procedures"]},
+            {"name": "Patient Education", "keywords": ["patient education", "health promotion", "disease prevention"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "medical communication"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "progress notes"]},
+            {"name": "Knowledge of Pharmacology", "keywords": ["knowledge of pharmacology", "drug interactions", "medication management"]},
+            {"name": "Critical Thinking", "keywords": ["critical thinking", "problem solving", "clinical reasoning"]},
+            {"name": "Teamwork", "keywords": ["teamwork", "collaboration", "interdisciplinary care"]},
+            {"name": "Preventive Care", "keywords": ["preventive care", "screening", "health maintenance"]}
+        ]
+    },
+    {
+        "Job": "Medical Assistant",
+        "skills": [
+            {"name": "Patient Intake", "keywords": ["patient intake", "vital signs", "medical history"]},
+            {"name": "Clinical Procedures", "keywords": ["clinical procedures", "injections", "wound care"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "charting"]},
+            {"name": "Scheduling", "keywords": ["scheduling", "appointments", "referrals"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "interpersonal skills"]},
+            {"name": "Medical Terminology", "keywords": ["medical terminology", "anatomy", "procedures"]},
+            {"name": "Laboratory Procedures", "keywords": ["laboratory procedures", "specimen collection", "testing"]},
+            {"name": "Equipment Sterilization", "keywords": ["equipment sterilization", "infection control", "aseptic technique"]},
+            {"name": "Administrative Tasks", "keywords": ["administrative tasks", "billing", "insurance verification"]},
+            {"name": "Knowledge of Medical Office Procedures", "keywords": ["knowledge of medical office procedures", "front desk", "back office"]}
+        ]
+    },
+    {
+        "Job": "Logistics Manager",
+        "skills": [
+            {"name": "Supply Chain Management", "keywords": ["supply chain management", "inventory control", "distribution"]},
+            {"name": "Logistics Planning", "keywords": ["logistics planning", "transportation management", "warehouse management"]},
+            {"name": "Inventory Management", "keywords": ["inventory management", "stock control", "forecasting"]},
+            {"name": "Transportation Management", "keywords": ["transportation management", "routing", "shipping"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "logistics metrics", "reporting"]},
+            {"name": "Communication", "keywords": ["communication", "vendor communication", "team coordination"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "logistics challenges", "process improvement"]},
+            {"name": "Budget Management", "keywords": ["budget management", "cost control", "resource allocation"]},
+            {"name": "Negotiation", "keywords": ["negotiation", "contract negotiation", "vendor relations"]},
+            {"name": "Knowledge of Logistics Software", "keywords": ["knowledge of logistics software", "erp systems", "wms"]}
+        ]
+    },
+    {
+        "Job": "Librarian",
+        "skills": [
+            {"name": "Information Retrieval", "keywords": ["information retrieval", "database searching", "research"]},
+            {"name": "Cataloging and Classification", "keywords": ["cataloging", "classification", "metadata"]},
+            {"name": "Reference Services", "keywords": ["reference services", "research assistance", "information literacy"]},
+            {"name": "Collection Development", "keywords": ["collection development", "resource selection", "acquisition"]},
+            {"name": "Digital Resources", "keywords": ["digital resources", "electronic databases", "online resources"]},
+            {"name": "Communication", "keywords": ["communication", "instruction", "public speaking"]},
+            {"name": "Technology Proficiency", "keywords": ["technology proficiency", "library systems", "digital tools"]},
+            {"name": "Organization", "keywords": ["organization", "record keeping", "database management"]},
+            {"name": "Customer Service", "keywords": ["customer service", "patron assistance", "community outreach"]},
+            {"name": "Knowledge of Library Science", "keywords": ["knowledge of library science", "information management", "archival studies"]}
+        ]
+    },
+    {
+        "Job": "Makeup Artist",
+        "skills": [
+            {"name": "Makeup Application", "keywords": ["makeup application", "beauty makeup", "special effects makeup"]},
+            {"name": "Color Theory", "keywords": ["color theory", "color matching", "palette selection"]},
+            {"name": "Skin Analysis", "keywords": ["skin analysis", "skin types", "product selection"]},
+            {"name": "Hairstyling", "keywords": ["hairstyling", "styling techniques", "hair products"]},
+            {"name": "Communication", "keywords": ["communication", "client consultation", "visual communication"]},
+            {"name": "Creativity", "keywords": ["creativity", "artistic skills", "design concepts"]},
+            {"name": "Hygiene and Sanitation", "keywords": ["hygiene", "sanitation", "tool sterilization"]},
+            {"name": "Product Knowledge", "keywords": ["product knowledge", "cosmetics", "skincare products"]},
+            {"name": "Attention to Detail", "keywords": ["attention to detail", "precision", "application techniques"]},
+            {"name": "Customer Service", "keywords": ["customer service", "client satisfaction", "relationship building"]}
+        ]
+    },
+    {
+        "Job": "HVAC Technician",
+        "skills": [
+            {"name": "HVAC Systems", "keywords": ["hvac systems", "heating systems", "air conditioning systems"]},
+            {"name": "Installation", "keywords": ["installation", "hvac installation", "ductwork installation"]},
+            {"name": "Maintenance", "keywords": ["maintenance", "preventive maintenance", "system checks"]},
+            {"name": "Troubleshooting", "keywords": ["troubleshooting", "diagnostic skills", "repair"]},
+            {"name": "Refrigeration", "keywords": ["refrigeration", "refrigerant handling", "system charging"]},
+            {"name": "Electrical Systems", "keywords": ["electrical systems", "wiring repair", "circuit diagnostics"]},
+            {"name": "Blueprint Reading", "keywords": ["blueprint reading", "hvac schematics", "system diagrams"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "hvac tools", "testing equipment"]},
+            {"name": "Communication", "keywords": ["communication", "customer service", "explanation"]},
+            {"name": "Code Compliance", "keywords": ["code compliance", "hvac codes", "safety regulations"]}
+        ]
+    },
+    {
+        "Job": "Nutritionist",
+        "skills": [
+            {"name": "Nutritional Assessment", "keywords": ["nutritional assessment", "dietary analysis", "health evaluation"]},
+            {"name": "Dietary Counseling", "keywords": ["dietary counseling", "meal planning", "nutrition education"]},
+            {"name": "Knowledge of Nutrition Science", "keywords": ["knowledge of nutrition science", "macronutrients", "micronutrients"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "motivational interviewing"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "progress notes"]},
+            {"name": "Knowledge of Medical Conditions", "keywords": ["knowledge of medical conditions", "diabetes", "cardiovascular disease"]},
+            {"name": "Meal Planning", "keywords": ["meal planning", "recipe modification", "dietary guidelines"]},
+            {"name": "Research Analysis", "keywords": ["research analysis", "evidence-based practice", "literature review"]},
+            {"name": "Public Speaking", "keywords": ["public speaking", "presentations", "workshops"]},
+            {"name": "Knowledge of Food Science", "keywords": ["knowledge of food science", "food preparation", "food safety"]}
+        ]
+    },
+    {
+        "Job": "Chiropractor",
+        "skills": [
+            {"name": "Spinal Manipulation", "keywords": ["spinal manipulation", "chiropractic adjustments", "manual therapy"]},
+            {"name": "Patient Assessment", "keywords": ["patient assessment", "musculoskeletal evaluation", "neurological assessment"]},
+            {"name": "Diagnosis of Musculoskeletal Disorders", "keywords": ["diagnosis of musculoskeletal disorders", "back pain", "neck pain"]},
+            {"name": "Patient Education", "keywords": ["patient education", "exercise programs", "lifestyle modifications"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "medical communication"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "examination reports"]},
+            {"name": "Knowledge of Anatomy and Physiology", "keywords": ["knowledge of anatomy", "physiology", "kinesiology"]},
+            {"name": "Use of Diagnostic Equipment", "keywords": ["use of diagnostic equipment", "x-ray interpretation", "orthopedic testing"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "diagnostic reasoning", "treatment planning"]},
+            {"name": "Knowledge of Rehabilitation Techniques", "keywords": ["knowledge of rehabilitation techniques", "therapeutic exercise", "modalities"]}
+        ]
+    },
+    {
+        "Job": "App Developer",
+        "skills": [
+            {"name": "Mobile App Development", "keywords": ["mobile app development", "ios development", "android development"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "swift", "kotlin", "java"]},
+            {"name": "UI/UX Design", "keywords": ["ui/ux design", "user interface", "user experience"]},
+            {"name": "Database Management", "keywords": ["database management", "sql", "nosql", "firebase"]},
+            {"name": "API Integration", "keywords": ["api integration", "restful apis", "web services"]},
+            {"name": "Version Control", "keywords": ["version control", "git", "github", "gitlab"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "debugging", "troubleshooting"]},
+            {"name": "Communication", "keywords": ["communication", "technical documentation", "client communication"]},
+            {"name": "Testing and Debugging", "keywords": ["testing", "debugging", "quality assurance"]},
+            {"name": "Knowledge of Mobile Platforms", "keywords": ["knowledge of mobile platforms", "ios sdk", "android sdk"]}
+        ]
+    },
+    {
+        "Job": "Photographer",
+        "skills": [
+            {"name": "Photography Techniques", "keywords": ["photography techniques", "lighting", "composition", "exposure"]},
+            {"name": "Image Editing", "keywords": ["image editing", "photoshop", "lightroom", "retouching"]},
+            {"name": "Digital Photography", "keywords": ["digital photography", "dslr cameras", "mirrorless cameras"]},
+            {"name": "Studio Photography", "keywords": ["studio photography", "studio lighting", "set design"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "visual communication"]},
+            {"name": "Creativity", "keywords": ["creativity", "artistic vision", "concept development"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "cameras", "lenses", "lighting equipment"]},
+            {"name": "Portfolio Development", "keywords": ["portfolio development", "image selection", "presentation"]},
+            {"name": "Business Skills", "keywords": ["business skills", "marketing", "pricing", "client management"]},
+            {"name": "Knowledge of Photography Genres", "keywords": ["knowledge of photography genres", "portrait photography", "landscape photography", "commercial photography"]}
+        ]
+    },
+    {
+        "Job": "Pharmacy Technician",
+        "skills": [
+            {"name": "Medication Dispensing", "keywords": ["medication dispensing", "prescription filling", "labeling"]},
+            {"name": "Inventory Management", "keywords": ["inventory management", "stock control", "ordering"]},
+            {"name": "Pharmacy Software", "keywords": ["pharmacy software", "data entry", "prescription management"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "pharmacy communication"]},
+            {"name": "Medication Knowledge", "keywords": ["medication knowledge", "drug names", "dosage forms"]},
+            {"name": "Sterile Compounding", "keywords": ["sterile compounding", "iv preparation", "aseptic technique"]},
+            {"name": "Regulatory Compliance", "keywords": ["regulatory compliance", "pharmacy law", "controlled substances"]},
+            {"name": "Customer Service", "keywords": ["customer service", "patient assistance", "problem resolution"]},
+            {"name": "Data Entry", "keywords": ["data entry", "accuracy", "speed"]},
+            {"name": "Knowledge of Pharmacy Procedures", "keywords": ["knowledge of pharmacy procedures", "workflow", "documentation"]}
+        ]
+    },
+    {
+        "Job": "Athletic Trainer",
+        "skills": [
+            {"name": "Injury Prevention", "keywords": ["injury prevention", "conditioning programs", "protective equipment"]},
+            {"name": "Injury Assessment", "keywords": ["injury assessment", "evaluation", "diagnostic testing"]},
+            {"name": "Rehabilitation", "keywords": ["rehabilitation", "therapeutic exercises", "modalities"]},
+            {"name": "Emergency Care", "keywords": ["emergency care", "first aid", "cpr"]},
+            {"name": "Communication", "keywords": ["communication", "athlete communication", "coach communication"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "injury reports", "progress notes"]},
+            {"name": "Knowledge of Anatomy and Physiology", "keywords": ["knowledge of anatomy", "physiology", "biomechanics"]},
+            {"name": "Strength and Conditioning", "keywords": ["strength and conditioning", "exercise prescription", "performance enhancement"]},
+            {"name": "Equipment Management", "keywords": ["equipment management", "maintenance", "inventory control"]},
+            {"name": "Knowledge of Sports Medicine", "keywords": ["knowledge of sports medicine", "athletic injuries", "treatment protocols"]}
+        ]
+    },
+    {
+        "Job": "Landscape Architect",
+        "skills": [
+            {"name": "Landscape Design", "keywords": ["landscape design", "site planning", "planting design"]},
+            {"name": "CAD Software", "keywords": ["cad software", "autocad", "sketchup", "revit"]},
+            {"name": "Site Analysis", "keywords": ["site analysis", "topography", "environmental assessment"]},
+            {"name": "Plant Knowledge", "keywords": ["plant knowledge", "horticulture", "plant selection"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "presentation skills"]},
+            {"name": "Project Management", "keywords": ["project management", "budgeting", "scheduling"]},
+            {"name": "3D Modeling", "keywords": ["3d modeling", "rendering", "visualization"]},
+            {"name": "Environmental Sustainability", "keywords": ["environmental sustainability", "green infrastructure", "water conservation"]},
+            {"name": "Construction Documents", "keywords": ["construction documents", "blueprints", "specifications"]},
+            {"name": "Knowledge of Landscape Materials", "keywords": ["knowledge of landscape materials", "hardscape", "softscape"]}
+        ]
+    },
+    {
+        "Job": "Marine Biologist",
+        "skills": [
+            {"name": "Marine Ecology", "keywords": ["marine ecology", "ecosystem analysis", "biodiversity studies"]},
+            {"name": "Field Research", "keywords": ["field research", "data collection", "sampling techniques"]},
+            {"name": "Laboratory Techniques", "keywords": ["laboratory techniques", "microscopy", "dna analysis"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "statistical analysis", "data visualization"]},
+            {"name": "Scientific Writing", "keywords": ["scientific writing", "research papers", "grant proposals"]},
+            {"name": "Communication", "keywords": ["communication", "presentation skills", "public outreach"]},
+            {"name": "Knowledge of Marine Organisms", "keywords": ["knowledge of marine organisms", "taxonomy", "physiology"]},
+            {"name": "Diving and Underwater Research", "keywords": ["diving", "underwater research", "scuba diving"]},
+            {"name": "Environmental Monitoring", "keywords": ["environmental monitoring", "water quality testing", "pollution assessment"]},
+            {"name": "Conservation Biology", "keywords": ["conservation biology", "species management", "habitat restoration"]}
+        ]
+    },
+    {
+        "Job": "Event Planner",
+        "skills": [
+            {"name": "Event Coordination", "keywords": ["event coordination", "logistics", "scheduling"]},
+            {"name": "Budget Management", "keywords": ["budget management", "cost estimation", "financial tracking"]},
+            {"name": "Vendor Management", "keywords": ["vendor management", "negotiation", "contract management"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "vendor communication"]},
+            {"name": "Project Management", "keywords": ["project management", "timeline management", "resource allocation"]},
+            {"name": "Creativity", "keywords": ["creativity", "theme development", "design concepts"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "contingency planning", "crisis management"]},
+            {"name": "Negotiation", "keywords": ["negotiation", "contract negotiation", "pricing"]},
+            {"name": "Marketing", "keywords": ["marketing", "event promotion", "social media marketing"]},
+            {"name": "Knowledge of Event Industry", "keywords": ["knowledge of event industry", "venue selection", "event trends"]}
+        ]
+    },
+    {
+        "Job": "Dental Laboratory Technician",
+        "skills": [
+            {"name": "Dental Prosthetics", "keywords": ["dental prosthetics", "crowns", "bridges", "dentures"]},
+            {"name": "Ceramic Work", "keywords": ["ceramic work", "porcelain fabrication", "shading"]},
+            {"name": "Model Fabrication", "keywords": ["model fabrication", "die trimming", "articulation"]},
+            {"name": "CAD/CAM Technology", "keywords": ["cad/cam technology", "digital design", "milling"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "laboratory equipment", "hand tools"]},
+            {"name": "Attention to Detail", "keywords": ["attention to detail", "precision", "quality control"]},
+            {"name": "Knowledge of Dental Materials", "keywords": ["knowledge of dental materials", "alloys", "resins", "ceramics"]},
+            {"name": "Communication", "keywords": ["communication", "dentist communication", "technical documentation"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "fabrication challenges", "material optimization"]},
+            {"name": "Knowledge of Dental Anatomy", "keywords": ["knowledge of dental anatomy", "occlusion", "morphology"]}
+        ]
+    },
+    {
+        "Job": "Flight Attendant",
+        "skills": [
+            {"name": "Customer Service", "keywords": ["customer service", "passenger assistance", "conflict resolution"]},
+            {"name": "Safety Procedures", "keywords": ["safety procedures", "emergency protocols", "evacuation procedures"]},
+            {"name": "First Aid and CPR", "keywords": ["first aid", "cpr", "medical emergencies"]},
+            {"name": "Communication", "keywords": ["communication", "passenger communication", "crew communication"]},
+            {"name": "Foreign Languages", "keywords": ["foreign languages", "multilingual", "language proficiency"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "in-flight emergencies", "passenger issues"]},
+            {"name": "Teamwork", "keywords": ["teamwork", "crew coordination", "collaboration"]},
+            {"name": "Time Management", "keywords": ["time management", "scheduling", "organization"]},
+            {"name": "Cultural Sensitivity", "keywords": ["cultural sensitivity", "intercultural communication", "diversity awareness"]},
+            {"name": "Knowledge of Aviation Regulations", "keywords": ["knowledge of aviation regulations", "faa regulations", "airline policies"]}
+        ]
+    },
+    {
+        "Job": "Industrial Designer",
+        "skills": [
+            {"name": "Product Design", "keywords": ["product design", "concept development", "form design"]},
+            {"name": "CAD Software", "keywords": ["cad software", "solidworks", "rhino", "alias"]},
+            {"name": "3D Modeling", "keywords": ["3d modeling", "rendering", "visualization"]},
+            {"name": "Prototyping", "keywords": ["prototyping", "model making", "rapid prototyping"]},
+            {"name": "Material Selection", "keywords": ["material selection", "manufacturing processes", "sustainability"]},
+            {"name": "User Research", "keywords": ["user research", "ergonomics", "human factors"]},
+            {"name": "Communication", "keywords": ["communication", "presentation skills", "technical documentation"]},
+            {"name": "Creativity", "keywords": ["creativity", "innovation", "design thinking"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "design challenges", "technical issues"]},
+            {"name": "Knowledge of Manufacturing", "keywords": ["knowledge of manufacturing", "production processes", "fabrication"]}
+        ]
+    },
+    {
+        "Job": "Music Producer",
+        "skills": [
+            {"name": "Music Composition", "keywords": ["music composition", "songwriting", "arrangement"]},
+            {"name": "Audio Engineering", "keywords": ["audio engineering", "recording", "mixing", "mastering"]},
+            {"name": "Digital Audio Workstations (DAWs)", "keywords": ["daws", "pro tools", "logic pro", "ableton live"]},
+            {"name": "Sound Design", "keywords": ["sound design", "synthesis", "sampling"]},
+            {"name": "Music Theory", "keywords": ["music theory", "harmony", "rhythm"]},
+            {"name": "Communication", "keywords": ["communication", "collaboration", "client communication"]},
+            {"name": "Creativity", "keywords": ["creativity", "artistic vision", "innovation"]},
+            {"name": "Project Management", "keywords": ["project management", "session scheduling", "budgeting"]},
+            {"name": "Music Industry Knowledge", "keywords": ["music industry knowledge", "copyright", "licensing"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "audio equipment", "studio equipment"]}
+        ]
+    },
+    {
+        "Job": "Aerospace Technician",
+        "skills": [
+            {"name": "Aircraft Maintenance", "keywords": ["aircraft maintenance", "inspection", "repair"]},
+            {"name": "Avionics Systems", "keywords": ["avionics systems", "electronics", "navigation systems"]},
+            {"name": "Structural Repair", "keywords": ["structural repair", "sheet metal work", "composite repair"]},
+            {"name": "Engine Maintenance", "keywords": ["engine maintenance", "turbine engines", "piston engines"]},
+            {"name": "Blueprint Reading", "keywords": ["blueprint reading", "technical drawings", "schematics"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "aircraft tools", "diagnostic equipment"]},
+            {"name": "Communication", "keywords": ["communication", "technical reporting", "maintenance logs"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "technical issues", "troubleshooting"]},
+            {"name": "Safety Procedures", "keywords": ["safety procedures", "aircraft safety", "maintenance safety"]},
+            {"name": "Knowledge of FAA Regulations", "keywords": ["knowledge of faa regulations", "airworthiness directives", "maintenance manuals"]}
+        ]
+    },
+    {
+        "Job": "Medical Laboratory Technician",
+        "skills": [
+            {"name": "Laboratory Procedures", "keywords": ["laboratory procedures", "blood testing", "microbiology", "chemistry"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "analyzers", "microscopes"]},
+            {"name": "Sample Preparation", "keywords": ["sample preparation", "specimen handling", "staining techniques"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "quality control", "result interpretation"]},
+            {"name": "Medical Terminology", "keywords": ["medical terminology", "anatomy", "physiology"]},
+            {"name": "Communication", "keywords": ["communication", "laboratory reporting", "medical communication"]},
+            {"name": "Quality Control", "keywords": ["quality control", "calibration", "maintenance"]},
+            {"name": "Safety Procedures", "keywords": ["safety procedures", "biosafety", "chemical safety"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "laboratory reports", "patient records"]},
+            {"name": "Knowledge of Laboratory Information Systems (LIS)", "keywords": ["knowledge of lis", "data entry", "result reporting"]}
+        ]
+    },
+    {
+        "Job": "Environmental Scientist",
+        "skills": [
+            {"name": "Environmental Monitoring", "keywords": ["environmental monitoring", "water quality testing", "air quality testing"]},
+            {"name": "Data Collection", "keywords": ["data collection", "field sampling", "laboratory analysis"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "statistical analysis", "data visualization"]},
+            {"name": "Environmental Regulations", "keywords": ["environmental regulations", "epa standards", "compliance"]},
+            {"name": "GIS Software", "keywords": ["gis software", "arcgis", "qgis", "spatial analysis"]},
+            {"name": "Scientific Writing", "keywords": ["scientific writing", "research reports", "impact assessments"]},
+            {"name": "Communication", "keywords": ["communication", "presentation skills", "public outreach"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "environmental remediation", "pollution control"]},
+            {"name": "Knowledge of Ecology", "keywords": ["knowledge of ecology", "ecosystem analysis", "biodiversity"]},
+            {"name": "Environmental Modeling", "keywords": ["environmental modeling", "simulation", "forecasting"]}
+        ]
+    },
+    {
+        "Job": "Forensic Scientist",
+        "skills": [
+            {"name": "Crime Scene Investigation", "keywords": ["crime scene investigation", "evidence collection", "documentation"]},
+            {"name": "Laboratory Analysis", "keywords": ["laboratory analysis", "dna analysis", "toxicology", "ballistics"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "statistical analysis", "forensic databases"]},
+            {"name": "Scientific Reporting", "keywords": ["scientific reporting", "expert testimony", "laboratory reports"]},
+            {"name": "Communication", "keywords": ["communication", "courtroom testimony", "investigator communication"]},
+            {"name": "Knowledge of Forensic Techniques", "keywords": ["knowledge of forensic techniques", "fingerprinting", "trace evidence"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "critical thinking"]},
+            {"name": "Attention to Detail", "keywords": ["attention to detail", "accuracy", "precision"]},
+            {"name": "Knowledge of Legal Procedures", "keywords": ["knowledge of legal procedures", "chain of custody", "admissibility"]},
+            {"name": "Use of Forensic Equipment", "keywords": ["use of forensic equipment", "microscopes", "spectrophotometers"]}
+        ]
+    },
+    {
+        "Job": "Fashion Designer",
+        "skills": [
+            {"name": "Fashion Design", "keywords": ["fashion design", "sketching", "pattern making", "draping"]},
+            {"name": "Textile Knowledge", "keywords": ["textile knowledge", "fabric selection", "material sourcing"]},
+            {"name": "Sewing and Garment Construction", "keywords": ["sewing", "garment construction", "tailoring"]},
+            {"name": "CAD Software", "keywords": ["cad software", "adobe illustrator", "photoshop"]},
+            {"name": "Trend Analysis", "keywords": ["trend analysis", "market research", "forecasting"]},
+            {"name": "Communication", "keywords": ["communication", "presentation skills", "client communication"]},
+            {"name": "Creativity", "keywords": ["creativity", "innovation", "design concepts"]},
+            {"name": "Portfolio Development", "keywords": ["portfolio development", "collection presentation", "lookbooks"]},
+            {"name": "Business Skills", "keywords": ["business skills", "marketing", "branding", "sales"]},
+            {"name": "Knowledge of Fashion History", "keywords": ["knowledge of fashion history", "design movements", "cultural influences"]}
+        ]
+    },
+    {
+        "Job": "Personal Trainer",
+        "skills": [
+            {"name": "Fitness Training", "keywords": ["fitness training", "exercise prescription", "strength training", "cardio training"]},
+            {"name": "Client Assessment", "keywords": ["client assessment", "fitness evaluation", "health screening"]},
+            {"name": "Nutrition Counseling", "keywords": ["nutrition counseling", "meal planning", "dietary advice"]},
+            {"name": "Motivational Techniques", "keywords": ["motivational techniques", "goal setting", "behavioral coaching"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "motivational interviewing"]},
+            {"name": "Knowledge of Exercise Science", "keywords": ["knowledge of exercise science", "anatomy", "physiology", "biomechanics"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "fitness equipment", "testing equipment"]},
+            {"name": "CPR and First Aid", "keywords": ["cpr", "first aid", "emergency procedures"]},
+            {"name": "Business Skills", "keywords": ["business skills", "client management", "marketing", "sales"]},
+            {"name": "Program Design", "keywords": ["program design", "personalized training plans", "progress tracking"]}
+        ]
+    },
+    {
+        "Job": "Court Reporter",
+        "skills": [
+            {"name": "Stenography", "keywords": ["stenography", "shorthand", "realtime reporting"]},
+            {"name": "Legal Terminology", "keywords": ["legal terminology", "court procedures", "legal concepts"]},
+            {"name": "Transcription", "keywords": ["transcription", "verbatim reporting", "editing"]},
+            {"name": "Communication", "keywords": ["communication", "courtroom communication", "clarification"]},
+            {"name": "Attention to Detail", "keywords": ["attention to detail", "accuracy", "precision"]},
+            {"name": "Knowledge of Court Procedures", "keywords": ["knowledge of court procedures", "rules of evidence", "trial protocols"]},
+            {"name": "Computer Proficiency", "keywords": ["computer proficiency", "cat software", "word processing"]},
+            {"name": "Realtime Reporting", "keywords": ["realtime reporting", "live transcription", "captioning"]},
+            {"name": "Audio Recording", "keywords": ["audio recording", "digital recording", "playback"]},
+            {"name": "Time Management", "keywords": ["time management", "scheduling", "meeting deadlines"]}
+        ]
+    },
+    {
+        "Job": "Surgical Technologist",
+        "skills": [
+            {"name": "Surgical Assisting", "keywords": ["surgical assisting", "instrument handling", "sterile technique"]},
+            {"name": "Operating Room Procedures", "keywords": ["operating room procedures", "scrubbing", "gowning", "gloving"]},
+            {"name": "Sterilization", "keywords": ["sterilization", "autoclaving", "infection control"]},
+            {"name": "Medical Terminology", "keywords": ["medical terminology", "anatomy", "surgical procedures"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "surgical instruments", "medical devices"]},
+            {"name": "Communication", "keywords": ["communication", "surgical team communication", "medical communication"]},
+            {"name": "Patient Preparation", "keywords": ["patient preparation", "positioning", "skin preparation"]},
+            {"name": "Knowledge of Surgical Instruments", "keywords": ["knowledge of surgical instruments", "classification", "application"]},
+            {"name": "Emergency Procedures", "keywords": ["emergency procedures", "cpr", "code response"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "surgical logs", "patient records"]}
+        ]
+    },
+    {
+        "Job": "Gaming Programmer",
+        "skills": [
+            {"name": "Game Development", "keywords": ["game development", "game engines", "game design"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "c++", "c#", "java"]},
+            {"name": "Game Engines", "keywords": ["game engines", "unity", "unreal engine", "godot"]},
+            {"name": "3d Graphics", "keywords": ["3d graphics", "rendering", "shaders", "animation"]},
+            {"name": "Artificial Intelligence", "keywords": ["artificial intelligence", "ai", "game ai", "pathfinding"]},
+            {"name": "Version Control", "keywords": ["version control", "git", "github", "gitlab"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "debugging", "algorithm design"]},
+            {"name": "Communication", "keywords": ["communication", "team collaboration", "technical documentation"]},
+            {"name": "Mathematics", "keywords": ["mathematics", "linear algebra", "calculus", "physics"]},
+            {"name": "Knowledge of Game Design Principles", "keywords": ["knowledge of game design principles", "game mechanics", "level design"]}
+        ]
+    },
+    {
+        "Job": "Floral Designer",
+        "skills": [
+            {"name": "Floral Arrangement", "keywords": ["floral arrangement", "bouquet design", "installation design"]},
+            {"name": "Plant Knowledge", "keywords": ["plant knowledge", "flower varieties", "plant care"]},
+            {"name": "Color Theory", "keywords": ["color theory", "color palettes", "design psychology"]},
+            {"name": "Design Principles", "keywords": ["design principles", "composition", "balance", "harmony"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "presentation skills"]},
+            {"name": "Creativity", "keywords": ["creativity", "artistic vision", "innovation"]},
+            {"name": "Event Design", "keywords": ["event design", "wedding florals", "event decor"]},
+            {"name": "Business Skills", "keywords": ["business skills", "pricing", "inventory management", "sales"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "floral tools", "equipment operation"]},
+            {"name": "Knowledge of Floral Industry Trends", "keywords": ["knowledge of floral industry trends", "seasonal flowers", "design styles"]}
+        ]
+    },
+    {
+        "Job": "Actuary",
+        "skills": [
+            {"name": "Statistical Analysis", "keywords": ["statistical analysis", "probability", "regression analysis"]},
+            {"name": "Financial Modeling", "keywords": ["financial modeling", "risk assessment", "forecasting"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "actuarial tables", "mortality rates"]},
+            {"name": "Mathematical Modeling", "keywords": ["mathematical modeling", "stochastic processes", "time series analysis"]},
+            {"name": "Communication", "keywords": ["communication", "financial reporting", "presentation skills"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "critical thinking"]},
+            {"name": "Knowledge of Insurance Principles", "keywords": ["knowledge of insurance principles", "risk management", "underwriting"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "sas", "r", "python"]},
+            {"name": "Financial Reporting", "keywords": ["financial reporting", "gaap", "ifrs"]},
+            {"name": "Knowledge of Regulatory Compliance", "keywords": ["knowledge of regulatory compliance", "insurance regulations", "financial regulations"]}
+        ]
+    },
+    {
+        "Job": "Biomedical Engineer",
+        "skills": [
+            {"name": "Medical Device Design", "keywords": ["medical device design", "prosthetics", "diagnostic equipment"]},
+            {"name": "Biomaterials", "keywords": ["biomaterials", "tissue engineering", "implantable devices"]},
+            {"name": "CAD Software", "keywords": ["cad software", "solidworks", "ansys", "autocad"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "statistical analysis", "medical imaging"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "matlab", "python", "c++"]},
+            {"name": "Communication", "keywords": ["communication", "technical reporting", "presentation skills"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "design challenges", "technical issues"]},
+            {"name": "Knowledge of Medical Regulations", "keywords": ["knowledge of medical regulations", "fda regulations", "iso standards"]},
+            {"name": "Biomedical Instrumentation", "keywords": ["biomedical instrumentation", "sensors", "signal processing"]},
+            {"name": "Knowledge of Anatomy and Physiology", "keywords": ["knowledge of anatomy", "physiology", "biomechanics"]}
+        ]
+    },
+    {
+        "Job": "Cosmetologist",
+        "skills": [
+            {"name": "Hair Care", "keywords": ["hair care", "hair styling", "hair coloring", "hair cutting"]},
+            {"name": "Skincare", "keywords": ["skincare", "facials", "waxing", "makeup application"]},
+            {"name": "Nail Care", "keywords": ["nail care", "manicures", "pedicures", "nail art"]},
+            {"name": "Product Knowledge", "keywords": ["product knowledge", "cosmetics", "skincare products", "hair products"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "consultation"]},
+            {"name": "Creativity", "keywords": ["creativity", "styling techniques", "design concepts"]},
+            {"name": "Hygiene and Sanitation", "keywords": ["hygiene", "sanitation", "tool sterilization"]},
+            {"name": "Customer Service", "keywords": ["customer service", "client satisfaction", "relationship building"]},
+            {"name": "Business Skills", "keywords": ["business skills", "appointment scheduling", "sales", "marketing"]},
+            {"name": "Knowledge of Cosmetology Trends", "keywords": ["knowledge of cosmetology trends", "styling techniques", "product innovations"]}
+        ]
+    },
+    {
+        "Job": "Geologist",
+        "skills": [
+            {"name": "Geological Mapping", "keywords": ["geological mapping", "field surveys", "rock identification"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "geophysical data", "geochemical data"]},
+            {"name": "Sedimentology", "keywords": ["sedimentology", "stratigraphy", "paleontology"]},
+            {"name": "Petrology", "keywords": ["petrology", "mineralogy", "rock analysis"]},
+            {"name": "GIS Software", "keywords": ["gis software", "arcgis", "qgis", "spatial analysis"]},
+            {"name": "Scientific Reporting", "keywords": ["scientific reporting", "geological reports", "field notes"]},
+            {"name": "Communication", "keywords": ["communication", "presentation skills", "technical reporting"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "geological hazards", "resource exploration"]},
+            {"name": "Knowledge of Earth Sciences", "keywords": ["knowledge of earth sciences", "plate tectonics", "geomorphology"]},
+            {"name": "Laboratory Techniques", "keywords": ["laboratory techniques", "sample preparation", "microscopy"]}
+        ]
+    },
+    {
+        "Job": "Wind Turbine Technician",
+        "skills": [
+            {"name": "Wind Turbine Maintenance", "keywords": ["wind turbine maintenance", "inspection", "repair"]},
+            {"name": "Electrical Systems", "keywords": ["electrical systems", "wiring repair", "circuit diagnostics"]},
+            {"name": "Mechanical Systems", "keywords": ["mechanical systems", "gearboxes", "hydraulic systems"]},
+            {"name": "Troubleshooting", "keywords": ["troubleshooting", "diagnostic skills", "repair"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "lifting equipment", "testing equipment"]},
+            {"name": "Communication", "keywords": ["communication", "technical reporting", "maintenance logs"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "technical issues", "troubleshooting"]},
+            {"name": "Safety Procedures", "keywords": ["safety procedures", "high-altitude work", "electrical safety"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "electrical tools", "mechanical tools"]},
+            {"name": "Knowledge of Wind Turbine Technology", "keywords": ["knowledge of wind turbine technology", "rotor systems", "generator systems"]}
+        ]
+    },
+    {
+        "Job": "Loan Officer",
+        "skills": [
+            {"name": "Loan Origination", "keywords": ["loan origination", "application processing", "document verification"]},
+            {"name": "Financial Analysis", "keywords": ["financial analysis", "credit assessment", "risk assessment"]},
+            {"name": "Customer Service", "keywords": ["customer service", "client communication", "relationship building"]},
+            {"name": "Communication", "keywords": ["communication", "loan explanations", "negotiation"]},
+            {"name": "Sales", "keywords": ["sales", "product knowledge", "cross-selling"]},
+            {"name": "Knowledge of Loan Products", "keywords": ["knowledge of loan products", "mortgages", "personal loans", "business loans"]},
+            {"name": "Compliance", "keywords": ["compliance", "regulatory requirements", "loan documentation"]},
+            {"name": "Data Entry", "keywords": ["data entry", "loan processing systems", "record keeping"]},
+            {"name": "Negotiation", "keywords": ["negotiation", "loan terms", "interest rates"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "loan approval issues", "client concerns"]}
+        ]
+    },
+    {
+        "Job": "Fundraiser",
+        "skills": [
+            {"name": "Fundraising Strategy", "keywords": ["fundraising strategy", "campaign planning", "donor relations"]},
+            {"name": "Grant Writing", "keywords": ["grant writing", "proposal development", "research"]},
+            {"name": "Donor Management", "keywords": ["donor management", "database management", "relationship building"]},
+            {"name": "Communication", "keywords": ["communication", "presentation skills", "public speaking"]},
+            {"name": "Event Planning", "keywords": ["event planning", "fundraising events", "logistics"]},
+            {"name": "Marketing", "keywords": ["marketing", "social media marketing", "public relations"]},
+            {"name": "Budget Management", "keywords": ["budget management", "financial planning", "resource allocation"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "fundraising metrics", "donor tracking"]},
+            {"name": "Networking", "keywords": ["networking", "relationship building", "community engagement"]},
+            {"name": "Knowledge of Nonprofit Sector", "keywords": ["knowledge of nonprofit sector", "philanthropy", "nonprofit management"]}
+        ]
+    },
+    {
+        "Job": "Surveyor",
+        "skills": [
+            {"name": "Land Surveying", "keywords": ["land surveying", "boundary surveys", "topographic surveys"]},
+            {"name": "GPS Technology", "keywords": ["gps technology", "rtk gps", "gnss surveying"]},
+            {"name": "CAD Software", "keywords": ["cad software", "autocad", "civil 3d"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "survey data", "calculations"]},
+            {"name": "Legal Documentation", "keywords": ["legal documentation", "plats", "legal descriptions"]},
+            {"name": "Communication", "keywords": ["communication", "technical reporting", "client communication"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "boundary disputes", "measurement accuracy"]},
+            {"name": "Equipment Operation", "keywords": ["equipment operation", "total stations", "leveling instruments"]},
+            {"name": "Knowledge of Surveying Laws", "keywords": ["knowledge of surveying laws", "property law", "boundary law"]},
+            {"name": "Mathematics", "keywords": ["mathematics", "trigonometry", "geometry", "calculus"]}
+        ]
+    },
+    {
+        "Job": "Hotel Manager",
+        "skills": [
+            {"name": "Hotel Operations", "keywords": ["hotel operations", "front desk management", "housekeeping management"]},
+            {"name": "Customer Service", "keywords": ["customer service", "guest relations", "problem resolution"]},
+            {"name": "Staff Management", "keywords": ["staff management", "training", "scheduling", "supervision"]},
+            {"name": "Budget Management", "keywords": ["budget management", "financial planning", "cost control"]},
+            {"name": "Communication", "keywords": ["communication", "guest communication", "staff communication"]},
+            {"name": "Marketing", "keywords": ["marketing", "hotel promotion", "social media marketing"]},
+            {"name": "Event Planning", "keywords": ["event planning", "banquets", "conferences"]},
+            {"name": "Sales", "keywords": ["sales", "room bookings", "group reservations"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "guest complaints", "operational issues"]},
+            {"name": "Knowledge of Hotel Management Software", "keywords": ["knowledge of hotel management software", "property management systems", "reservation systems"]}
+        ]
+    },
+    {
+        "Job": "Animal Trainer",
+        "skills": [
+            {"name": "Animal Behavior", "keywords": ["animal behavior", "training techniques", "behavior modification"]},
+            {"name": "Training Methods", "keywords": ["training methods", "positive reinforcement", "clicker training"]},
+            {"name": "Communication", "keywords": ["communication", "animal communication", "owner communication"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "behavioral issues", "training challenges"]},
+            {"name": "Patience", "keywords": ["patience", "consistency", "understanding"]},
+            {"name": "Knowledge of Animal Species", "keywords": ["knowledge of animal species", "species-specific behavior", "needs"]},
+            {"name": "Safety Procedures", "keywords": ["safety procedures", "animal handling", "safety protocols"]},
+            {"name": "Record Keeping", "keywords": ["record keeping", "training logs", "progress tracking"]},
+            {"name": "Client Education", "keywords": ["client education", "training techniques", "behavior management"]},
+            {"name": "Equipment Handling", "keywords": ["equipment handling", "training tools", "leashes", "harnesses"]}
+        ]
+    },
+    {
+        "Job": "Dietitian",
+        "skills": [
+            {"name": "Nutritional Assessment", "keywords": ["nutritional assessment", "dietary analysis", "health evaluation"]},
+            {"name": "Dietary Counseling", "keywords": ["dietary counseling", "meal planning", "nutrition education"]},
+            {"name": "Knowledge of Nutrition Science", "keywords": ["knowledge of nutrition science", "macronutrients", "micronutrients"]},
+            {"name": "Communication", "keywords": ["communication", "patient communication", "motivational interviewing"]},
+            {"name": "Medical Documentation", "keywords": ["medical documentation", "patient records", "progress notes"]},
+            {"name": "Knowledge of Medical Conditions", "keywords": ["knowledge of medical conditions", "diabetes", "cardiovascular disease"]},
+            {"name": "Meal Planning", "keywords": ["meal planning", "recipe modification", "dietary guidelines"]},
+            {"name": "Research Analysis", "keywords": ["research analysis", "evidence-based practice", "literature review"]},
+            {"name": "Public Speaking", "keywords": ["public speaking", "presentations", "workshops"]},
+            {"name": "Knowledge of Food Science", "keywords": ["knowledge of food science", "food preparation", "food safety"]}
+        ]
+    },
+    {
+        "Job": "Urban Planner",
+        "skills": [
+            {"name": "Urban Design", "keywords": ["urban design", "land use planning", "community development"]},
+            {"name": "GIS Software", "keywords": ["gis", "qgis", "spatial analysis"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "demographic data", "economic data"]},
+            {"name": "Policy Analysis", "keywords": ["policy analysis", "zoning regulations", "development plans"]},
+            {"name": "Communication", "keywords": ["communication", "public presentations", "community meetings"]},
+            {"name": "Project Management", "keywords": ["project management", "development projects", "infrastructure planning"]},
+            {"name": "Environmental Planning", "keywords": ["environmental planning", "sustainability", "resource management"]},
+            {"name": "Community Engagement", "keywords": ["community engagement", "public participation", "stakeholder collaboration"]},
+            {"name": "Knowledge of Urban Planning Principles", "keywords": ["knowledge of urban planning principles", "smart growth", "new urbanism"]},
+            {"name": "Knowledge of Transportation Planning", "keywords": ["knowledge of transportation planning", "transit planning", "traffic analysis"]}
+        ]
+    },
+    {
+        "Job": "Technical Writer",
+        "skills": [
+            {"name": "Technical Writing", "keywords": ["technical writing", "documentation", "user manuals", "api documentation"]},
+            {"name": "Information Architecture", "keywords": ["information architecture", "content organization", "knowledge management"]},
+            {"name": "Editing and Proofreading", "keywords": ["editing", "proofreading", "grammar", "style guides"]},
+            {"name": "Communication", "keywords": ["communication", "technical communication", "collaboration"]},
+            {"name": "Subject Matter Expertise", "keywords": ["subject matter expertise", "technical knowledge", "industry knowledge"]},
+            {"name": "Content Management Systems (CMS)", "keywords": ["cms", "confluence", "sharepoint", "wordpress"]},
+            {"name": "Software Documentation", "keywords": ["software documentation", "release notes", "installation guides"]},
+            {"name": "API Documentation", "keywords": ["api documentation", "restful apis", "sdk documentation"]},
+            {"name": "Usability Testing", "keywords": ["usability testing", "user feedback", "content improvement"]},
+            {"name": "Knowledge of Style Guides", "keywords": ["knowledge of style guides", "microsoft manual of style", "chicago manual of style"]}
+        ]
+    },
+    {
+        "Job": "Aerospace Engineer",
+        "skills": [
+            {"name": "Aerodynamics", "keywords": ["aerodynamics", "fluid dynamics", "aircraft design"]},
+            {"name": "Propulsion Systems", "keywords": ["propulsion systems", "jet engines", "rocket propulsion"]},
+            {"name": "Structural Analysis", "keywords": ["structural analysis", "stress analysis", "finite element analysis"]},
+            {"name": "Control Systems", "keywords": ["control systems", "flight control", "guidance systems"]},
+            {"name": "CAD Software", "keywords": ["cad software", "catia", "ansys"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "analytical skills", "critical thinking"]},
+            {"name": "Communication", "keywords": ["communication", "technical reporting", "presentation skills"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "matlab", "python", "c++"]},
+            {"name": "Project Management", "keywords": ["project management", "design reviews", "testing"]},
+            {"name": "Knowledge of Aerospace Standards", "keywords": ["knowledge of aerospace standards", "faa regulations", "mil-specs"]}
+        ]
+    },
+    {
+        "Job": "Funeral Director",
+        "skills": [
+            {"name": "Funeral Planning", "keywords": ["funeral planning", "arrangements", "memorial services"]},
+            {"name": "Grief Counseling", "keywords": ["grief counseling", "bereavement support", "emotional support"]},
+            {"name": "Embalming", "keywords": ["embalming", "preparation", "restoration"]},
+            {"name": "Legal Documentation", "keywords": ["legal documentation", "death certificates", "permits"]},
+            {"name": "Communication", "keywords": ["communication", "client communication", "interpersonal skills"]},
+            {"name": "Organization", "keywords": ["organization", "logistics", "scheduling"]},
+            {"name": "Attention to Detail", "keywords": ["attention to detail", "accuracy", "precision"]},
+            {"name": "Knowledge of Funeral Practices", "keywords": ["knowledge of funeral practices", "religious customs", "cultural traditions"]},
+            {"name": "Business Management", "keywords": ["business management", "financial management", "marketing"]},
+            {"name": "Compassion", "keywords": ["compassion", "empathy", "sensitivity"]}
+        ]
+    },
+    {
+        "Job": "Economist",
+        "skills": [
+            {"name": "Economic Analysis", "keywords": ["economic analysis", "market research", "forecasting"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "econometrics", "statistical modeling"]},
+            {"name": "Economic Modeling", "keywords": ["economic modeling", "simulation", "forecasting"]},
+            {"name": "Policy Analysis", "keywords": ["policy analysis", "economic policy", "fiscal policy"]},
+            {"name": "Communication", "keywords": ["communication", "economic reports", "presentations"]},
+            {"name": "Mathematical Modeling", "keywords": ["mathematical modeling", "optimization", "game theory"]},
+            {"name": "Research Methodology", "keywords": ["research methodology", "data collection", "literature review"]},
+            {"name": "Knowledge of Economic Theory", "keywords": ["knowledge of economic theory", "macroeconomics", "microeconomics"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "r", "python", "stata"]},
+            {"name": "Knowledge of Economic Indicators", "keywords": ["knowledge of economic indicators", "gdp", "inflation", "unemployment"]}
+        ]
+    },
+    {
+        "Job": "Geographer",
+        "skills": [
+            {"name": "Geographic Information Systems (GIS)", "keywords": ["gis", "arcgis", "qgis", "spatial analysis"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "spatial data", "demographic data"]},
+            {"name": "Cartography", "keywords": ["cartography", "map making", "geovisualization"]},
+            {"name": "Remote Sensing", "keywords": ["remote sensing", "satellite imagery", "aerial photography"]},
+            {"name": "Field Research", "keywords": ["field research", "data collection", "observation"]},
+            {"name": "Communication", "keywords": ["communication", "geographic reports", "presentations"]},
+            {"name": "Knowledge of Geographic Concepts", "keywords": ["knowledge of geographic concepts", "spatial patterns", "human-environment interaction"]},
+            {"name": "Statistical Analysis", "keywords": ["statistical analysis", "spatial statistics", "regression analysis"]},
+            {"name": "Programming Languages", "keywords": ["programming languages", "python", "r", "javascript"]},
+            {"name": "Knowledge of Geographic Databases", "keywords": ["knowledge of geographic databases", "spatial databases", "geodatabases"]}
+        ]
+    },
+    {
+        "Job": "Telecommunications Technician",
+        "skills": [
+            {"name": "Telecommunications Systems", "keywords": ["telecommunications systems", "network installation", "cable installation"]},
+            {"name": "Troubleshooting", "keywords": ["troubleshooting", "network diagnostics", "signal testing"]},
+            {"name": "Equipment Installation", "keywords": ["equipment installation", "routers", "switches", "modems"]},
+            {"name": "Cable Management", "keywords": ["cable management", "wiring", "fiber optics"]},
+            {"name": "Blueprint Reading", "keywords": ["blueprint reading", "telecommunications schematics", "wiring diagrams"]},
+            {"name": "Tool Proficiency", "keywords": ["tool proficiency", "telecommunications tools", "testing equipment"]},
+            {"name": "Communication", "keywords": ["communication", "technical reporting", "customer service"]},
+            {"name": "Problem Solving", "keywords": ["problem solving", "network issues", "signal problems"]},
+            {"name": "Safety Procedures", "keywords": ["safety procedures", "electrical safety", "cable safety"]},
+            {"name": "Knowledge of Telecommunications Standards", "keywords": ["knowledge of telecommunications standards", "ethernet", "tcp/ip", "wireless protocols"]}
+        ]
+    },
+    {
+        "Job": "Zoologist",
+        "skills": [
+            {"name": "Animal Behavior", "keywords": ["animal behavior", "ethology", "behavioral studies"]},
+            {"name": "Field Research", "keywords": ["field research", "data collection", "observation"]},
+            {"name": "Laboratory Techniques", "keywords": ["laboratory techniques", "dna analysis", "microscopy"]},
+            {"name": "Data Analysis", "keywords": ["data analysis", "statistical analysis", "data visualization"]},
+            {"name": "Scientific Writing", "keywords": ["scientific writing", "research papers", "grant proposals"]},
+            {"name": "Communication", "keywords": ["communication", "presentation skills", "public outreach"]},
+            {"name": "Knowledge of Animal Physiology", "keywords": ["knowledge of animal physiology", "anatomy", "physiology", "evolution"]},
+            {"name": "Taxonomy", "keywords": ["taxonomy", "classification", "phylogeny"]},
+            {"name": "Conservation Biology", "keywords": ["conservation biology", "species management", "habitat restoration"]},
+            {"name": "Environmental Monitoring", "keywords": ["environmental monitoring", "population studies", "habitat assessment"]}
+        ]
+    },
+    {
+        "Job": "Court Clerk",
+        "skills": [
+            {"name": "Record Keeping", "keywords": ["record keeping", "court documents", "case files"]},
+            {"name": "Legal Terminology", "keywords": ["legal terminology", "court procedures", "legal concepts"]},
+            {"name": "Data Entry", "keywords": ["data entry", "court databases", "case management systems"]},
+            {"name": "Communication", "keywords": ["communication", "courtroom communication", "public interaction"]},
+            {"name": "Organization", "keywords": ["organization", "scheduling", "file management"]},
+            {"name": "Attention to Detail", "keywords": ["attention to detail", "accuracy", "precision"]},
+            {"name": "Knowledge of Court Procedures", "keywords": ["knowledge of court procedures", "filing procedures", "court rules"]},
+            {"name": "Legal Documentation", "keywords": ["legal documentation", "court orders", "subpoenas"]},
+            {"name": "Customer Service", "keywords": ["customer service", "public assistance", "information dissemination"]},
+            {"name": "Computer Proficiency", "keywords": ["computer proficiency", "court software", "word processing"]}
+        ]
+    }
+]
