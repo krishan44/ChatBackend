@@ -1,0 +1,16 @@
+{
+  "job_data": {},
+  "queries": {
+    "-7017589533650691872": {
+      "query": "I want to be a Pharmacist",
+      "responses": {
+        "4939119446675116089": {
+          "response": "I'm not sure what career you're asking about. Could you please rephrase your question?",
+          "helpful_count": 0,
+          "unhelpful_count": 1
+        }
+      }
+    }
+  },
+  "feedback": {}
+}
