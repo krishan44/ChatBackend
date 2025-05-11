@@ -55,24 +55,43 @@ def chat():
 
         response_content = None
         suggestions = []
+        
+        # Normalize query for easier matching
+        normalized_query = query.lower().strip()
 
-        # Check for greeting
+        # Check for greeting - improved pattern matching
+        greeting_found = False
         for keyword, details in greeting_data.get('greetings', {}).items():
-            if keyword in query.lower():
+            if keyword in normalized_query or normalized_query in keyword:
                 response_content = get_random_response(details.get('response'))
                 suggestions = details.get('suggestions', [])
+                greeting_found = True
                 break
+                
+        # For very short greetings (hi, hey, etc), do a more lenient check
+        if not greeting_found and len(normalized_query.split()) == 1:
+            for keyword in ['hi', 'hey', 'hello', 'sup', 'yo', 'greetings']:
+                if normalized_query == keyword:
+                    for greet_key, details in greeting_data.get('greetings', {}).items():
+                        if greet_key in ['hi', 'hello', 'hey']:
+                            response_content = get_random_response(details.get('response'))
+                            suggestions = details.get('suggestions', [])
+                            greeting_found = True
+                            break
+                    if greeting_found:
+                        break
 
-        # Check for ending message
+        # Check for ending message - improved pattern matching
         if not response_content:
             for keyword, details in greeting_data.get('ending_messages', {}).items():
-                if keyword in query.lower():
+                if keyword in normalized_query or normalized_query in ['bye', 'goodbye', 'farewell', 'see you', 'thanks', 'thank you', 'have a nice day']:
                     response_content = get_random_response(details.get('response'))
                     suggestions = details.get('suggestions', [])
                     break
 
         # If no specific greeting or ending is found, process as a general query
         if not response_content:
+            # process_query now returns both response and suggestions
             processed_output = process_query(query)
             if isinstance(processed_output, tuple) and len(processed_output) == 2:
                 response_content, suggestions = processed_output
@@ -82,6 +101,14 @@ def chat():
 
         chat_history.append({"role": "user", "content": query})
         chat_history.append({"role": "assistant", "content": response_content})
+
+        # If no suggestions were provided, add default ones
+        if not suggestions:
+            suggestions = [
+                "Tell me about another career",
+                "What do you know?",
+                "Let me teach you something"
+            ]
 
         return jsonify({"response": response_content, "suggestions": suggestions, "history": chat_history}), 200
 
